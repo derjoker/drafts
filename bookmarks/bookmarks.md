@@ -12,6 +12,7 @@
 * [PEXELS](https://www.pexels.com/): Best free stock photos in one place.
 
 ## Blog & Website
+
 * [Lea Verou](http://lea.verou.me/): Life at the bleeding edge (of web standards)
 
 ## 德语
