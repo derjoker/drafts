@@ -9,6 +9,10 @@
 * [FAVICON.IO](https://favicon.io/): Create a minimal favicon in few simple clicks.
 * [unDraw](https://undraw.co/): A constantly updated collection of beautiful svg images that you can use completely free and without attribution.
 * [Calendar-12](https://www.calendar-12.com): Printable Calendar
+* [PEXELS](https://www.pexels.com/): Best free stock photos in one place.
+
+## Blog & Website
+* [Lea Verou](http://lea.verou.me/): Life at the bleeding edge (of web standards)
 
 ## 德语
 
