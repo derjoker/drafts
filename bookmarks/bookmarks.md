@@ -15,6 +15,13 @@
 
 * [Lea Verou](http://lea.verou.me/): Life at the bleeding edge (of web standards)
 
+## 语言
+
+### 应用
+
+* [readlang](http://readlang.com/):
+Learn a language by reading whatever you like
+
 ## 德语
 
 ### 阅读
