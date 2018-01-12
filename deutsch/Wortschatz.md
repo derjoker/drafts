@@ -24,3 +24,21 @@
 22. Anfrage
 23. treten - treffen
 24. Umwelt - Umgebung
+25. Ausgabe - Auflage
+26. Stiftung
+27. Darstellung - Bezeichnung
+28. möglicherweise
+29. Beamt - Behörden
+30. Auftrag - Aufgabe - Auftakt
+31. Pfarrer - Fahrer
+32. leisten - führen
+33. lediglich
+34. Beziehung - Bezug
+35. erreichen
+36. Aufstieg
+37. Nutzung - verwenden
+38. Wohlergehen
+39. Haltung
+40. letztlich - endlich - schließlich
+41. grundsätzlich - grundlegend
+42. Aufbau - Ausbau - Abbau
