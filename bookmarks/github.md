@@ -11,3 +11,4 @@
 ## Projects
 
 * [wentin](https://github.com/wentin)/**[cssicon](https://github.com/wentin/cssicon)**
+* [Kenshin](https://github.com/Kenshin)/**[simpread](https://github.com/Kenshin/simpread)**
