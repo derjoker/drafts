@@ -7,7 +7,7 @@
 1. widerstehen - Widerstand
 1. zudem - außerdem - zusätzlich
 1. Rede - Vortrag
-1. Ausdruck - Aussagen
+1. Ausdruck - Aussage
 1. Gegenteil - Anteil - Beteiligung
 1. Gegner
 1. Umgang
