@@ -4,12 +4,18 @@
 
 * [Better Explained](https://betterexplained.com/): Math without endless memorization.
 
-## 素材/工具
+## 工具
 
 * [FAVICON.IO](https://favicon.io/): Create a minimal favicon in few simple clicks.
 * [unDraw](https://undraw.co/): A constantly updated collection of beautiful svg images that you can use completely free and without attribution.
 * [Calendar-12](https://www.calendar-12.com): Printable Calendar
+
+## 图片素材
+
 * [PEXELS](https://www.pexels.com/): Best free stock photos in one place.
+* [全景网](www.quanjing.com): 图片库和图片素材网站
+* [1x](http://1x.com/): Curated photography
+* [Flickr](www.flickr.com): 你的靈感泉源。
 
 ## Blog & Website
 
@@ -19,8 +25,7 @@
 
 ### 应用
 
-* [readlang](http://readlang.com/):
-Learn a language by reading whatever you like
+* [readlang](http://readlang.com/): Learn a language by reading whatever you like
 
 ## 德语
 
