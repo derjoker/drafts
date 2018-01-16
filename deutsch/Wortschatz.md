@@ -27,17 +27,18 @@
 1. Verständnis
 1. gestorben - tot
 1. Messe
-1. Anfrage
+1. Vorhaben
+1. Rede - Vortrag
+1. Anfrage - Antrag
 1. Umwelt - Umgebung
 1. Stiftung
 1. Darstellung - Bezeichnung
 1. möglicherweise
 1. Beamt - Behörden
-1. Rede - Vortrag
 1. Auftrag - Aufgabe - Auftakt
 1. Pfarrer - Fahrer
 1. leisten - führen
-1. lediglich - ziemlich
+1. lediglich - ziemlich - wesentlich
 1. Beziehung - Bezug
 1. Bereichen
 1. erreichen - erfolgen
@@ -50,6 +51,7 @@
 1. Gefahr
 1. Haltung
 1. zuletzt - letztlich - endlich - schließlich
+1. kürzlich
 1. Schluss - Anschluss
 1. Aufbau - Ausbau - Abbau
 1. Veranstalter - Veranstaltung - Vorstellung
@@ -75,3 +77,8 @@
 1. Anzahl - Betrag
 1. erhalten
 1. Wachstum
+1. Haft - Heft
+1. Steuer
+1. Ausgleich
+1. hervor - vorbei
+1. viertel
