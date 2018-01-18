@@ -35,7 +35,7 @@
 1. Darstellung - Bezeichnung
 1. möglicherweise
 1. Beamt - Behörden
-1. Auftrag - Aufgabe - Auftakt
+1. Auftrag - Aufgabe - Auftakt - Auftritt
 1. Pfarrer - Fahrer
 1. leisten - führen
 1. lediglich - ziemlich - wesentlich
@@ -45,7 +45,7 @@
 1. notwendig - hinreichend
 1. Reise - Fahrt
 1. Aufstieg
-1. Nutzung - nutzen - verwenden
+1. Nutzung - nutzen - Verwendung - verwenden
 1. Untersuchung - Ermittlung
 1. Wohlergehen
 1. Gefahr
@@ -72,7 +72,7 @@
 1. Beifall
 1. Umsetzung - Umsatz
 1. natürlich
-1. sicher - bestimmt - wohl
+1. klar - gewiss - sicher - bestimmt - unbedingt - wohl
 1. wahrscheinlich - angeblich
 1. Saal
 1. betroffen
