@@ -40,7 +40,7 @@
 1. leisten - führen
 1. lediglich - ziemlich - wesentlich
 1. Beziehung - Bezug
-1. Bereichen
+1. Bereichen - Rahmen
 1. erreichen - erfolgen
 1. notwendig - hinreichend
 1. Reise - Fahrt
@@ -49,7 +49,6 @@
 1. Untersuchung - Ermittlung
 1. Wohlergehen
 1. Gefahr
-1. Haltung
 1. zuletzt - letztlich - endlich - schließlich
 1. kürzlich
 1. Schluss - Anschluss
@@ -57,14 +56,17 @@
 1. Veranstalter - Veranstaltung - Vorstellung
 1. Beratung
 1. Tatsache
+1. Sache - Ding
 1. Anlass
 1. Wechsel
 1. offiziell
 1. Auswirkung
+1. Lust
 1. Verlust
 1. neidisch - niedlich
 1. bewahren
 1. glücklicherweise - seltsamerweise
+1. weitgehend
 1. entsprechend - entsprechen
 1. selten - kaum - wenig
 1. Beifall
@@ -76,9 +78,15 @@
 1. betroffen
 1. Anzahl - Betrag
 1. erhalten
-1. Wachstum
+1. Haltung
 1. Haft - Heft
+1. Wachstum
 1. Steuer
 1. Ausgleich
 1. hervor - vorbei
 1. viertel
+1. klasse
+1. ebenfalls
+1. Bevölkerung
+1. setzen - stellen
+1. ausschließlich - einschließlich
