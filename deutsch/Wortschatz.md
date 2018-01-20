@@ -7,8 +7,11 @@
 1. zudem - außerdem - zusätzlich
 1. Ausdruck - Aussage
 1. Urteil - Anteil - Beteiligung
+1. Absatz
 1. Gegner - Gegenteil - Gegensatz
+1. Umsetzung - Umsatz
 1. Umgang
+1. fordern
 1. Anspruch - Forderung - Förderung
 1. Zustand - Verfassung
 1. Wettbewerb - Konkurrenz
@@ -51,7 +54,7 @@
 1. Gefahr
 1. zuletzt - letztlich - endlich - schließlich
 1. kürzlich
-1. Schluss - Anschluss
+1. Schluss - Anschluss - Beschluss
 1. Aufbau - Ausbau - Abbau
 1. Veranstalter - Veranstaltung - Vorstellung
 1. Beratung
@@ -70,7 +73,6 @@
 1. entsprechend - entsprechen
 1. selten - kaum - wenig
 1. Beifall
-1. Umsetzung - Umsatz
 1. natürlich
 1. klar - gewiss - sicher - bestimmt - unbedingt - wohl
 1. wahrscheinlich - angeblich
@@ -79,7 +81,7 @@
 1. Anzahl - Betrag
 1. erhalten
 1. Haltung
-1. Haft - Heft
+1. Haft - Heft - Hälfte
 1. Wachstum
 1. Steuer
 1. Ausgleich
@@ -90,3 +92,8 @@
 1. Bevölkerung
 1. setzen - stellen
 1. ausschließlich - einschließlich
+1. Sammlung
+1. ankündigen
+1. ständig
+1. feiern
+1. einigen

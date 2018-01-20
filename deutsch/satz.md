@@ -4,3 +4,4 @@
 1. Not macht erfinderisch.
 1. Das passiert einfach manchmal.
 1. Du siehst betroffen aus. Ist alles in Ordnung?
+1. Daraus können Probleme entstehen.
