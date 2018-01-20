@@ -18,6 +18,10 @@
 * [1x](http://1x.com/): Curated photography
 * [Flickr](www.flickr.com): 你的靈感泉源。
 
+## 资料
+
+* [openstax cnx](https://cnx.org/): Discover learning materials in an Open Space.
+
 ## Blog & Website
 
 * [Lea Verou](http://lea.verou.me/): Life at the bleeding edge (of web standards)
