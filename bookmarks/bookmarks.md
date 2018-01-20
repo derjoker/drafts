@@ -9,6 +9,7 @@
 * [FAVICON.IO](https://favicon.io/): Create a minimal favicon in few simple clicks.
 * [unDraw](https://undraw.co/): A constantly updated collection of beautiful svg images that you can use completely free and without attribution.
 * [Calendar-12](https://www.calendar-12.com): Printable Calendar
+* [Forecast](https://overcast.fm/forecast): Podcast MP3 encoder with chapters
 
 ## 图片素材
 
@@ -37,3 +38,7 @@
 ### 语法
 
 * [SCHUBERT-Verlag](https://www.schubert-verlag.de/)
+
+### 节目
+
+* [The Voice Kids 德国版 2013](http://list.youku.com/show/id_za53a6752bd1011e2b356.html)
