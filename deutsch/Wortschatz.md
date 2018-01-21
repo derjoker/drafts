@@ -7,6 +7,7 @@
 1. zudem - außerdem - zusätzlich
 1. Ausdruck - Aussage
 1. Urteil - Anteil - Beteiligung
+1. Besitz - Sitzung
 1. Absatz
 1. Gegner - Gegenteil - Gegensatz
 1. Umsetzung - Umsatz
@@ -17,7 +18,6 @@
 1. Wettbewerb - Konkurrenz
 1. gelingen
 1. treten - treffen - Treffer
-1. beschließen - entscheiden - Entscheidung
 1. Niederlage
 1. Richtung - Einrichtung - Anlage
 1. Ausgabe - Auflage
@@ -37,7 +37,7 @@
 1. Stiftung
 1. Darstellung - Bezeichnung
 1. möglicherweise
-1. Beamt - Behörden
+1. Behörden
 1. Auftrag - Aufgabe - Auftakt - Auftritt
 1. Pfarrer - Fahrer
 1. leisten - führen
@@ -50,11 +50,13 @@
 1. Aufstieg
 1. Nutzung - nutzen - Verwendung - verwenden
 1. Untersuchung - Ermittlung
+1. Mittelpunkt
 1. Wohlergehen
 1. Gefahr
-1. zuletzt - letztlich - endlich - schließlich
+1. zunächst - zuletzt - letztlich - endlich - schließlich
 1. kürzlich
 1. Schluss - Anschluss - Beschluss
+1. beschließen - entscheiden - Entscheidung
 1. Aufbau - Ausbau - Abbau
 1. Veranstalter - Veranstaltung - Vorstellung
 1. Beratung
@@ -70,6 +72,7 @@
 1. bewahren
 1. glücklicherweise - seltsamerweise
 1. weitgehend
+1. weit - fern - entfern
 1. entsprechend - entsprechen
 1. selten - kaum - wenig
 1. Beifall
@@ -90,10 +93,15 @@
 1. klasse
 1. ebenfalls
 1. Bevölkerung
-1. setzen - stellen
+1. setzen - stellen - legen
 1. ausschließlich - einschließlich
 1. Sammlung
 1. ankündigen
 1. ständig
 1. feiern
-1. einigen
+1. Freien
+1. einigen - einig
+1. Aktie
+1. komplett
+1. hastig - rasch
+1. Vorteil - Nachteil
