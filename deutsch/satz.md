@@ -6,3 +6,8 @@
 1. Du siehst betroffen aus. Ist alles in Ordnung?
 1. Daraus können Probleme entstehen.
 1. Das wäre uns fast gelungen.
+1. Es sind sofortige Maßnahmen notwendig.
+1. Vielleicht ein anderes Mal.
+1. Er blieb bei seiner Aussage.
+1. Die weiteren Schritte sind unklar.
+1. Jens hätte den Streit verhindern sollen.

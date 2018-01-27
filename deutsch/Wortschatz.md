@@ -17,6 +17,7 @@
 1. Wettbewerb - Konkurrenz
 1. gelingen
 1. treten - treffen - Treffer
+1. Begegnung
 1. Niederlage
 1. Richtung - Einrichtung - Anlage
 1. Ausgabe - Auflage
@@ -89,12 +90,13 @@
 1. Wachstum
 1. Steuer
 1. Ausgleich
-1. hervor - vorbei
+1. hervor - vorbei - vorher
 1. viertel
 1. klasse
 1. ebenfalls
 1. Bevölkerung
 1. setzen - stellen - legen
+1. Stellung - Position
 1. ausschließlich - einschließlich
 1. Sammlung
 1. ankündigen
@@ -118,3 +120,10 @@
 1. Verdacht
 1. Realität - Formalität
 1. Partei - Partie
+1. übrig
+1. Zugang - zugänglich
+1. Vorworf
+1. Stadion - Studien
+1. ehemalig - damalig
+1. Raum - Zimmer
+1. König - Kaiser
