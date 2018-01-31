@@ -11,3 +11,6 @@
 1. Er blieb bei seiner Aussage.
 1. Die weiteren Schritte sind unklar.
 1. Jens hätte den Streit verhindern sollen.
+1. Ich sehe keinen Anlass zum Streit.
+1. Tina fiel ein Stein vom Herzen.
+1. Können Sie eine Ausnahme machen?

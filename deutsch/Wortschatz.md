@@ -2,6 +2,7 @@
 
 1. verdienen - dienen - Dienst - Bedingung
 1. Stimmung - Zustimmung - Abstimmung
+1. bestimmen - zustimmen - abstimmen
 1. dazu - dabei - dadurch
 1. widerstehen - Widerstand
 1. zudem - außerdem - zusätzlich
@@ -56,7 +57,7 @@
 1. zunächst - zuletzt - letztlich - endlich - schließlich
 1. kürzlich
 1. jüngst
-1. künftig
+1. künftig - zukünftig
 1. Schluss - Anschluss - Beschluss
 1. beschließen - entscheiden - Entscheidung
 1. Aufbau - Ausbau - Abbau
@@ -127,3 +128,7 @@
 1. ehemalig - damalig
 1. Raum - Zimmer
 1. König - Kaiser
+1. drohen - bedrohen
+1. fürchten - befürchten
+1. Behandlung - Verhandlung
+1. Auskunft
