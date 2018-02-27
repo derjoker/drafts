@@ -19,6 +19,7 @@ Vorteil, Nachteil
 Großteil
 Anteil
 
+Ruhm
 berühmt, renommiert
 beschämt, berüchtigt
 
@@ -64,3 +65,34 @@ Sache 事物，东西
 
 im Laufe 在…期间
 am Laufen 在运行
+
+verlaufen
+ablaufen
+
+antreten
+abtreten
+
+anstellen
+angehen
+
+Verärgerung, Wut, Empörung
+Vorwurf
+
+heimisch
+Einheimisch
+
+wenden
+abwenden
+wechseln
+verwechseln
+wandeln
+verwandeln
+
+vielmehr
+lieber
+
+schildern, beschreiben
+
+eigen
+eigentlich
+eigenartig
