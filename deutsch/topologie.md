@@ -23,6 +23,8 @@ Ruhm
 berühmt, renommiert
 beschämt, berüchtigt
 
+beträchtlich
+
 leiden
 leisten
 
@@ -63,7 +65,7 @@ zufällig
 Ding 事情，事物，东西
 Sache 事物，东西
 
-im Laufe 在…期间
+im Laufe, im Verlauf 在…期间
 am Laufen 在运行
 
 verlaufen
@@ -96,3 +98,6 @@ schildern, beschreiben
 eigen
 eigentlich
 eigenartig
+
+unmittelbar 直接
+unvermittelt 突然
