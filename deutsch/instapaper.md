@@ -13,6 +13,54 @@
 
 2018.03.01
 
+## [Selbständig machen im Internet: Was es (wirklich) bedeutet](https://www.instapaper.com/read/1022561378)
+
+* erschöpft, erschöpfend
+* erwarten
+* einlassen
+* fleißig
+* Wahrheit
+* zugegeben
+* düster
+* Wucht
+* Abwasch
+* überwinden
+* vertrödeln
+* Verlockung
+* gären
+* erzwingen
+* ewig
+* beisteuern
+
+2018.03.02
+
+## [Ergebnisse um jeden Preis - Wenn Forscher betrügen](https://www.instapaper.com/read/1019596803)
+
+* hässlich
+* fälschen, Fälschung
+* vorzubeugen
+* vollständig
+* erfunden
+* festlegen
+
+## [Heimat auf Zeit - Wie ausländische Fachkräfte Berlin verändern](https://www.instapaper.com/read/1014556762)
+
+* Unterfangen
+* anstellen
+* wenden, wandten
+* vorantreiben
+
+2018.03.02
+
+## [Widerstandsgruppe um Geschwister Scholl - Das Ende der "Weißen Rose"](https://www.instapaper.com/read/1019605405)
+
+* empfänglich
+* verbrauchen
+* berüchtigt
+* beträchtlich
+
+2018.03.02
+
 ## [Terror auf den Philippinen - Der lange Arm des IS auf Mindanao](https://www.instapaper.com/read/1019270850)
 
 * Überfall
