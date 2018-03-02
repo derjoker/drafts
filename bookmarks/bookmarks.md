@@ -39,6 +39,8 @@
 * [Deutschlandradio](http://www.deutschlandradio.de/)
 * [SPIEGEL ONLINE](http://www.spiegel.de/)
 * [Healthy Habbits](https://www.healthyhabits.de/artikel/)
+* [myMONK](http://mymonk.de/)
+* [MarathonFitness](https://www.marathonfitness.de/)
 
 ### 语法
 
