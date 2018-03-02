@@ -101,3 +101,5 @@ eigenartig
 
 unmittelbar 直接
 unvermittelt 突然
+
+eintreten, anbrechen

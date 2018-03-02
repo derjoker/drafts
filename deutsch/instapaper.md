@@ -43,6 +43,22 @@
 * erfunden
 * festlegen
 
+2018.03.02
+
+## [China - Das Projekt Weltmacht](https://www.instapaper.com/read/1010408973)
+
+* renommiert
+* insofern
+* Wohlstand
+* verwandeln
+* ausfüllen
+* Gegenzug
+* anstreben
+* bedrohen
+* Auswirkung
+
+2018.03.02
+
 ## [Heimat auf Zeit - Wie ausländische Fachkräfte Berlin verändern](https://www.instapaper.com/read/1014556762)
 
 * Unterfangen
