@@ -114,3 +114,6 @@ beeinflussen
 beeindrucken
 
 erzielen, erreichen
+
+einst 过去；将来
+einstig 过去

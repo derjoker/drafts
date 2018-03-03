@@ -48,6 +48,17 @@
 
 2018.03.03
 
+## [Rückkehr in den Senegal - "Ich bin mit leeren Händen gekommen"](https://www.instapaper.com/read/1019605393)
+
+* verdecken
+* leiden, gelitten
+* Ansehen
+* Analphabet
+* erarbeiten
+* wahrhaben
+
+2018.03.03
+
 ## [Gender studies - Getrennte Spielwelten](https://www.instapaper.com/read/1013151057)
 
 * Sehnsucht
