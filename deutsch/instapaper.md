@@ -15,24 +15,38 @@
 
 ## [Selbständig machen im Internet: Was es (wirklich) bedeutet](https://www.instapaper.com/read/1022561378)
 
-* erschöpft, erschöpfend
-* erwarten
+* Tenor
 * einlassen
-* fleißig
 * Wahrheit
-* zugegeben
+* mögen
 * düster
-* Wucht
+* Medaille
+* Schirm
+* Gesichter
 * Abwasch
-* überwinden
+* lohnen
 * vertrödeln
+* aufbringen
 * Verlockung
+* teilen
+* anziehen
 * gären
-* erzwingen
-* ewig
-* beisteuern
+* hinziehen
+* rauben
+* erfordern
+* abschließen
+* mitunter
+* wähnen
+* abbekommen
+* bedeutungslos
+* verfolgen
+* storchen
+* beibehalten
+* beliebt
+* verreißen
+* Hemmung
 
-2018.03.02
+2018.03.03
 
 ## [Ergebnisse um jeden Preis - Wenn Forscher betrügen](https://www.instapaper.com/read/1019596803)
 

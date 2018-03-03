@@ -99,7 +99,18 @@ eigen
 eigentlich
 eigenartig
 
+eigentlich 原本，本来
+überhaupt 根本，究竟
+
 unmittelbar 直接
 unvermittelt 突然
 
 eintreten, anbrechen
+
+schlecht 坏
+schimm 差，糟糕
+
+beeinflussen
+beeindrucken
+
+erzielen, erreichen
