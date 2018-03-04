@@ -117,3 +117,6 @@ erzielen, erreichen
 
 einst 过去；将来
 einstig 过去
+
+fordern 想要，要求
+erfordern 需要

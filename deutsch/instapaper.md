@@ -15,38 +15,62 @@
 
 ## [Selbständig machen im Internet: Was es (wirklich) bedeutet](https://www.instapaper.com/read/1022561378)
 
-* Tenor
+* erwarten
 * einlassen
 * Wahrheit
-* mögen
-* düster
-* Medaille
-* Schirm
-* Gesichter
 * Abwasch
-* lohnen
-* vertrödeln
 * aufbringen
 * Verlockung
-* teilen
-* anziehen
-* gären
+* angehen
+* Spazierengehen
 * hinziehen
 * rauben
 * erfordern
 * abschließen
-* mitunter
 * wähnen
-* abbekommen
-* bedeutungslos
-* verfolgen
-* storchen
-* beibehalten
-* beliebt
+* Kuchen
+* Platz
+* beeindrucken
+* fesseln
+* stochern
+* eigentlich
+* überall
+* Deckel
+* erfahren
+* niederschlagen
 * verreißen
+* tut weh
+* schlimm
 * Hemmung
+* Gesetz
+* sich rechnen
+* auffallen
+* anfühlen
+* Einnahme
+* solange
+* Wert
+* Schade
+* verwenden
+* nahezu
+* gebrauchen
+* anreichern
+* stiften
+* einbringen
+* Vertrauen
+* Vorreiter
+* nirgends
+* scheitern
+* vorbeikommen
+* ausüben
+* Umfeld
+* verhungern
+* durchschlagend
+* festangestellt
+* Schritt
+* erfüllend
+* Ersparniss
 
-2018.03.03
+2018.03.04
 
 ## [Rückkehr in den Senegal - "Ich bin mit leeren Händen gekommen"](https://www.instapaper.com/read/1019605393)
 
