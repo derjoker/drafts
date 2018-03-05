@@ -15,62 +15,38 @@
 
 ## [Selbständig machen im Internet: Was es (wirklich) bedeutet](https://www.instapaper.com/read/1022561378)
 
-* erwarten
-* einlassen
-* Wahrheit
-* Abwasch
-* aufbringen
+* nüchtern
 * Verlockung
-* angehen
-* Spazierengehen
-* hinziehen
-* rauben
-* erfordern
-* abschließen
-* wähnen
-* Kuchen
-* Platz
 * beeindrucken
 * fesseln
-* stochern
-* eigentlich
-* überall
+* erzielen
 * Deckel
-* erfahren
 * niederschlagen
 * verreißen
-* tut weh
-* schlimm
-* Hemmung
 * Gesetz
-* sich rechnen
-* auffallen
 * anfühlen
 * Einnahme
+* schwierig
 * solange
-* Wert
+* folglich
 * Schade
-* verwenden
+* verwenden, gebrauchen
 * nahezu
-* gebrauchen
-* anreichern
+* Anspruch
 * stiften
-* einbringen
-* Vertrauen
-* Vorreiter
+* sich rechnen
 * nirgends
-* scheitern
 * vorbeikommen
 * ausüben
-* Umfeld
+* Ungewissheit
+* selten
+* beibringen
 * verhungern
 * durchschlagend
-* festangestellt
-* Schritt
-* erfüllend
-* Ersparniss
+* neulich
+* Unsicherheit
 
-2018.03.04
+2018.03.05;2018.03.04
 
 ## [Rückkehr in den Senegal - "Ich bin mit leeren Händen gekommen"](https://www.instapaper.com/read/1019605393)
 
