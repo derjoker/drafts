@@ -1,52 +1,22 @@
 # Instapaper
 
-## [Der Kleine Prinz](https://www.instapaper.com/read/1018137839)
+## [Verkehr in Luxemburg - Ein Land steht im Stau](https://www.instapaper.com/read/1020906749)
 
-* Einfall
-* aufbieten
-* schädlich
-* angehen
-* loswerden
-* Morgentoilette
-* Mühe
-* enthalten
+* erhoffen
+* Wirbelsäule
+* Minutentakt
+* Angebot
 
-2018.03.01
+2018.03.06
 
 ## [Selbständig machen im Internet: Was es (wirklich) bedeutet](https://www.instapaper.com/read/1022561378)
 
-* nüchtern
-* Verlockung
-* beeindrucken
-* fesseln
-* erzielen
-* Deckel
-* niederschlagen
-* verreißen
-* Gesetz
-* anfühlen
-* Einnahme
-* schwierig
-* solange
-* folglich
-* Schade
-* verwenden, gebrauchen
-* nahezu
-* Anspruch
+* grundsätzlich
 * stiften
-* sich rechnen
-* nirgends
-* vorbeikommen
-* ausüben
+* Wette
 * Ungewissheit
-* selten
-* beibringen
-* verhungern
-* durchschlagend
-* neulich
-* Unsicherheit
 
-2018.03.05;2018.03.04
+2018.03.07;2018.03.05;2018.03.04
 
 ## [Rückkehr in den Senegal - "Ich bin mit leeren Händen gekommen"](https://www.instapaper.com/read/1019605393)
 
