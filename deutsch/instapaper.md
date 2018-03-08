@@ -1,5 +1,14 @@
 # Instapaper
 
+## [Veränderungen angehen: "Morgen fange ich an"](https://www.instapaper.com/read/1025445431)
+
+* sich ausmalen
+* erwischen
+* sich hingeben
+* vornehmen
+
+2018.03.08
+
 ## [Verkehr in Luxemburg - Ein Land steht im Stau](https://www.instapaper.com/read/1020906749)
 
 * erhoffen
