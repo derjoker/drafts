@@ -2,15 +2,18 @@
 
 ## [Veränderungen angehen: "Morgen fange ich an"](https://www.instapaper.com/read/1025445431)
 
+* ausmalen
+* Euphorie
 * Phantasie
-* mithalten
-* verbinden
+* aufschieben, aufgeschoben
+* empfinden
+* vorsorglich
+* Optimismus
 * erwischen
-* sich hingeben
-* Umsetzung
+* Selbstbetrug
 * spontan
 
-2018.03.09;2018.03.08
+2018.03.10;2018.03.09;2018.03.08
 
 ## [Verkehr in Luxemburg - Ein Land steht im Stau](https://www.instapaper.com/read/1020906749)
 
