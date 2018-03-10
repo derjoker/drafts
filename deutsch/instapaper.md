@@ -17,12 +17,29 @@
 
 ## [Verkehr in Luxemburg - Ein Land steht im Stau](https://www.instapaper.com/read/1020906749)
 
-* erhoffen
-* Wirbelsäule
+* streben
+* Einstellung
+* sich erhoffen
+* Herzstück
+* Zeichen
 * Minutentakt
-* Angebot
+* Haltestelle
+* ermüdend
+* Anreiz
+* umstellen
+* Entlastung
+* Belastung
+* bestehend
+* auflegen
+* stecken
+* Spart
+* umfassen
+* präzis
+* Tücke
+* abbilden
+* darstellen
 
-2018.03.06
+2018.03.10;2018.03.06
 
 ## [Selbständig machen im Internet: Was es (wirklich) bedeutet](https://www.instapaper.com/read/1022561378)
 
