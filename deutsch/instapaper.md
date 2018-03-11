@@ -1,5 +1,24 @@
 # Instapaper
 
+## [Hyperschall-Technologie - "Fragestellungen gibt es noch eine ganze Menge"](https://www.instapaper.com/read/1025382400)
+
+* relevant
+* aufwendig
+* vorn
+* Fakt
+* Erprobung
+* stattfinden
+* mutmaßlich
+* absehbar
+* offenbar
+* sich befinden
+* denkbar
+* Vorteil von
+* Abfangen
+* wahnsinnig
+
+2018.03.11
+
 ## [Veränderungen angehen: "Morgen fange ich an"](https://www.instapaper.com/read/1025445431)
 
 * empfinden
