@@ -2,18 +2,11 @@
 
 ## [Veränderungen angehen: "Morgen fange ich an"](https://www.instapaper.com/read/1025445431)
 
-* ausmalen
-* Euphorie
-* Phantasie
-* aufschieben, aufgeschoben
 * empfinden
 * vorsorglich
-* Optimismus
-* erwischen
-* Selbstbetrug
-* spontan
+* sich hingeben
 
-2018.03.10;2018.03.09;2018.03.08
+2018.03.11;2018.03.10;2018.03.09;2018.03.08
 
 ## [Verkehr in Luxemburg - Ein Land steht im Stau](https://www.instapaper.com/read/1020906749)
 
@@ -43,16 +36,10 @@
 
 ## [Selbständig machen im Internet: Was es (wirklich) bedeutet](https://www.instapaper.com/read/1022561378)
 
-* klar
-* hier und da
-* stochern
-* grundsätzlich
-* schwierig
-* nahezu
+* Gastbeitrag
 * stiften
-* Wette
 
-2018.03.09;2018.03.07;2018.03.05;2018.03.04
+2018.03.11;2018.03.09;2018.03.07;2018.03.05;2018.03.04
 
 ## [Rückkehr in den Senegal - "Ich bin mit leeren Händen gekommen"](https://www.instapaper.com/read/1019605393)
 
