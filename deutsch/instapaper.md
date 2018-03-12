@@ -31,27 +31,16 @@
 
 * streben
 * Einstellung
-* sich erhoffen
-* Herzstück
-* Zeichen
-* Minutentakt
-* Haltestelle
-* ermüdend
+* einweihen
 * Anreiz
-* umstellen
-* Entlastung
-* Belastung
-* bestehend
 * auflegen
-* stecken
-* Spart
-* umfassen
-* präzis
-* Tücke
-* abbilden
+* präzise
 * darstellen
+* besagen
+* neigen
+* Steueraufkommen
 
-2018.03.10;2018.03.06
+2018.03.12;2018.03.10;2018.03.06
 
 ## [Selbständig machen im Internet: Was es (wirklich) bedeutet](https://www.instapaper.com/read/1022561378)
 
