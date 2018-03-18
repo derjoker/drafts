@@ -122,3 +122,8 @@ fordern 想要，要求
 erfordern 需要
 
 ständig, stets, stetig
+
+erklären, erzählen, erläutern
+
+bestehen darin
+liegen daran
