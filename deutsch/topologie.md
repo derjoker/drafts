@@ -127,3 +127,6 @@ erklären, erzählen, erläutern
 
 bestehen darin
 liegen daran
+
+früh
+spät
