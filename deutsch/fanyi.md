@@ -2,7 +2,7 @@
 
 ## 2018.03.24
 
-Fakt ist, dass die Leute nicht mehr der Regel sind, sondern Ausnahme. Ein Studie in 2010 hat festgestellt, dass nur ein Viertel der Studenten in einem Gebiet arbeiten, der was mit seinem Fach zu tun hat.
+Tatsächlich ist das nicht mehr die Regel, sondern die Ausnahme. Eine Studie von 2010 zeigt, dass nur ein Viertel der College-Absolventen in einem Bereich arbeiten, der mit ihrem Studium zu tun hat.
 
 The truth is, these folks are no longer the rule, but the exception. A 2010 study found that only a quarter of college graduates work in a field that relates to their degree.
 
