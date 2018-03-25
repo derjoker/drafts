@@ -137,3 +137,6 @@ rechtswidrig
 Forschung, erforschen
 Untersuchung, untersuchen
 Erprobung, erproben
+
+weder ... noch ...
+sowohl ... als auch ...
