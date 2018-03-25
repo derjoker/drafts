@@ -5,34 +5,28 @@
 * die **Umstellung** von Kohle auf Gas
 * Der CO2-**Gehalt** der Atmosphäre steigt weiter.
 
+2018.03.25
+
 ## [Netzwerkdurchsetzungsgesetz - Gegen Hass oder gegen Meinungsfreiheit?](https://www.instapaper.com/read/1025392252)
 
-* in dem Bedenken von ...
-* egal, in welcher Stadt dieser Welt der Terrorangriff stattfindet
-* dieser Fall macht deutlich, dass ...
-* Dieser Verpflichtung sind die großen Netzwerke, also ganz genau Facebook und Twitter, unzureichend nachgekommen.
-* die deutschen Gesetze einhalten
-* an dem Gesetz (fest)halten
-* ... stört viele Kritiker
+* das Gesetz **zwingt** uns die Verantwortung **auf**
+* in dem **Bedenken** von ...
+* egal, in welcher Stadt dieser Welt der Terrorangriff **stattfindet**
+* dieser Fall **macht** deutlich, dass ...
+* Dieser Verpflichtung sind die großen Netzwerke, also ganz genau Facebook und Twitter, unzureichend **nachgekommen**.
+* die deutschen Gesetze **einhalten**
+* an dem Gesetz **festhalten**
+* **sich** an Regeln **halten**
+* ... **stört** viele Kritiker
 
 2018.03.24
 
 ## [Hyperschall-Technologie - "Fragestellungen gibt es noch eine ganze Menge"](https://www.instapaper.com/read/1025382400)
 
-* relevant
-* aufwendig
-* vorn
-* Fakt
-* Erprobung
-* stattfinden
-* mutmaßlich
-* absehbar
-* offenbar
-* sich befinden
-* denkbar
-* Vorteil von
-* Abfangen
-* wahnsinnig
+* Insbesondere im militärischen Kontext werden diese Technologien **relevanter**.
+* Die Antriebstechnologie **stellt** doch eine große Herausforderung **dar**.
+* Antriebstechnologie ist noch eine **wahnsinnige** Herausforderung.
+* aus meiner Sicht ist es **zwingend** notwendig, ...
 
 2018.03.11
 

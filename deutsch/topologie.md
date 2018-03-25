@@ -130,3 +130,10 @@ liegen daran
 
 früh
 spät
+
+rechtsfrei
+rechtswidrig
+
+Forschung, erforschen
+Untersuchung, untersuchen
+Erprobung, erproben
