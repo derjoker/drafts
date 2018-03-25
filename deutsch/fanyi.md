@@ -2,7 +2,7 @@
 
 ## 2018.03.25
 
-Ich absolviert nicht mit einem sondern zwei ? im Biologie. Was meine Eltern frustrieren ist, dass Ich nicht ein Arzt und nicht ein Wissenschaftler bin.
+Ich habe zwei Abschlüsse in Biologie. Zum Ärger meiner Eltern bin ich weder Doktor noch Wissenschaftler.
 
 I graduated with not one but two degrees in biology. To my parents' dismay, I am neither a doctor nor a scientist.
 
