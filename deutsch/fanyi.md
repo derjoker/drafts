@@ -2,7 +2,7 @@
 
 ## 2018.03.26
 
-Ich muss alles wie Umsatz, Markt, Stratigie, sogar ein biesschen Program selbst lernen.
+Ich habe mir alles selbst **beigebracht**: Verkauf, Marketing und Strategie -- sogar ein paar Programmierkenntnisse.
 
 I had to teach myself everything from sales, marketing, strategy, even a little programming, on my own.
 
@@ -10,7 +10,7 @@ I had to teach myself everything from sales, marketing, strategy, even a little 
 
 ## 2018.03.25
 
-Ich habe zwei Abschlüsse in Biologie. Zum Ärger meiner Eltern bin ich weder Doktor noch Wissenschaftler.
+Ich habe zwei **Abschlüsse** in Biologie. Zum Ärger meiner Eltern bin ich **weder** Doktor **noch** Wissenschaftler.
 
 I graduated with not one but two degrees in biology. To my parents' dismay, I am neither a doctor nor a scientist.
 
@@ -18,7 +18,7 @@ I graduated with not one but two degrees in biology. To my parents' dismay, I am
 
 ## 2018.03.24
 
-Tatsächlich ist das nicht mehr die Regel, sondern die Ausnahme. Eine Studie von 2010 zeigt, dass nur ein Viertel der College-Absolventen in einem Bereich arbeiten, der mit ihrem Studium zu tun hat.
+**Tatsächlich** ist das nicht mehr die Regel, sondern die Ausnahme. Eine Studie von 2010 zeigt, dass nur ein Viertel der College-Absolventen in einem **Bereich** arbeiten, der mit ihrem Studium zu tun hat.
 
 The truth is, these folks are no longer the rule, but the exception. A 2010 study found that only a quarter of college graduates work in a field that relates to their degree.
 
