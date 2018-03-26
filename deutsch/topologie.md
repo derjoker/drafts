@@ -140,3 +140,7 @@ Erprobung, erproben
 
 weder ... noch ...
 sowohl ... als auch ...
+
+sonderbar
+besonders
+insbesondere

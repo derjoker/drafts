@@ -1,5 +1,14 @@
 # Instapaper
 
+## [US-Strafzölle gegen China - "Alle werden von einem solchen Handelskonflikt betroffen sein"](https://www.instapaper.com/read/1033814560)
+
+* Was **kommt** da auf die Weltwirtschaft **zu**?
+* in **Anführungszeichen**
+* Die Konsequenz für die Wirtschaft beider Länder wäre **verheerend**.
+* Dieser Realität werden wir **uns stellen** müssen.
+
+2018.03.26
+
 ## [Neue Rekordwerte - Weltweiter CO2-Ausstoß so hoch wie noch nie](https://www.instapaper.com/read/1032906199)
 
 * die **Umstellung** von Kohle auf Gas
