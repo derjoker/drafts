@@ -1,5 +1,13 @@
 # Übersetzen
 
+## 2018.03.26
+
+Ich muss alles wie Umsatz, Markt, Stratigie, sogar ein biesschen Program selbst lernen.
+
+I had to teach myself everything from sales, marketing, strategy, even a little programming, on my own.
+
+我得自学各种东西，销售、市场、策略，甚至是一点编程。
+
 ## 2018.03.25
 
 Ich habe zwei Abschlüsse in Biologie. Zum Ärger meiner Eltern bin ich weder Doktor noch Wissenschaftler.
