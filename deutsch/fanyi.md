@@ -1,5 +1,13 @@
 # Übersetzen
 
+## 2018.03.27
+
+Ich wurde von Google und einige andere abgelehnt und fühlte mich frustriert.
+
+I had already been turned down by Google and several other firms and was getting frustrated.
+
+我已经被谷歌和其他几个公司拒绝了，感到非常沮丧。
+
 ## 2018.03.26
 
 Ich habe mir alles selbst **beigebracht**: Verkauf, Marketing und Strategie -- sogar ein paar Programmierkenntnisse.
