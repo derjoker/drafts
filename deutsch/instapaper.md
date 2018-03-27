@@ -48,18 +48,9 @@
 
 ## [Verkehr in Luxemburg - Ein Land steht im Stau](https://www.instapaper.com/read/1020906749)
 
-* streben
-* Einstellung
-* einweihen
-* Anreiz
-* auflegen
-* präzise
-* darstellen
-* besagen
-* neigen
-* Steueraufkommen
+* Die Busse verkehren im **Minutentakt** in Luxemburg.
 
-2018.03.12;2018.03.10;2018.03.06
+2018.03.06
 
 ## [Selbständig machen im Internet: Was es (wirklich) bedeutet](https://www.instapaper.com/read/1022561378)
 
