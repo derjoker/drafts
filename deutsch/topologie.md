@@ -144,3 +144,9 @@ sowohl ... als auch ...
 sonderbar
 besonders
 insbesondere
+
+Einwohner, Bewohner, Anwohner
+
+letzt 上一个，过去的
+letztlich 终究，毕竟
+letztendlich 最后
