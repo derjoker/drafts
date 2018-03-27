@@ -2,7 +2,7 @@
 
 ## 2018.03.27
 
-Ich wurde von Google und einige andere abgelehnt und fühlte mich frustriert.
+Ich wurde bereits von Google und **anderen** Firmen abgelehnt und war langsam frustriert.
 
 I had already been turned down by Google and several other firms and was getting frustrated.
 
