@@ -1,5 +1,13 @@
 # Übersetzen
 
+## 2018.03.28
+
+Die Firma war kurzlich auf der Börse gegangen. Als Teil meiner Job Anwendung, las ich die alle IPO Dokumenten und erstellte eine Webseite, die meine Analyse der Geschäft und vier Idee enthält.
+
+The company had recently gone public, so as part of my job application, I read the IPO filings from cover to cover and built a website from scratch which included my analysis of the business and four ideas for new features.
+
+这家公司刚刚上市。作为工作申请的一部分，我阅读了完整的IPO文件，并且从头开始创建了一个网站。网站上有我的商业分析和新特性的四个想法。
+
 ## 2018.03.27
 
 Ich wurde bereits von Google und **anderen** Firmen abgelehnt und war langsam frustriert.
