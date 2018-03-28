@@ -2,7 +2,7 @@
 
 ## 2018.03.28
 
-Die Firma war kurzlich auf der Börse gegangen. Als Teil meiner Job Anwendung, las ich die alle IPO Dokumenten und erstellte eine Webseite, die meine Analyse der Geschäft und vier Idee enthält.
+Das Unternehmen war kürzlich an die Börse gegangen. Zur Bewerbungsvorbereitung las ich alles über ihren Börsengang und erstellte eine ganz neue Webseite, die meine Geschäftsanalyse und vier Ideen für Neuerungen enthielt.
 
 The company had recently gone public, so as part of my job application, I read the IPO filings from cover to cover and built a website from scratch which included my analysis of the business and four ideas for new features.
 
