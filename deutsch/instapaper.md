@@ -1,5 +1,7 @@
 # Instapaper
 
+## [Menschen, die keine Fragen stellen – Healthy Habits](https://www.instapaper.com/read/1035299210)
+
 ## [US-Strafzölle gegen China - "Alle werden von einem solchen Handelskonflikt betroffen sein"](https://www.instapaper.com/read/1033814560)
 
 * Was **kommt** da auf die Weltwirtschaft **zu**?
