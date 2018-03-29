@@ -1,5 +1,13 @@
 # Übersetzen
 
+## 2018.03.29
+
+Der Team arbeitete aktiv an zwei von die Ideen und dachte über eine dritten nach. I bekam den Job.
+
+It turned out the team was actively working on two of those ideas and had seriously considered a third. I got the job.
+
+结果这个团队正好在做其中的两个想法，并且认真考虑了第三个。我获得了这份工作。
+
 ## 2018.03.28
 
 Das Unternehmen war kürzlich an die Börse gegangen. Zur Bewerbungsvorbereitung las ich alles über ihren Börsengang und erstellte eine ganz neue Webseite, die meine Geschäftsanalyse und vier Ideen für Neuerungen enthielt.
