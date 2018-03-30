@@ -1,5 +1,13 @@
 # Übersetzen
 
+## 2018.03.30
+
+Wir alle kennen solche Leuten, die zu erst ignoriert oder unterschätzt wurden, aber schließlich beweisen konnten, dass ihre Kritiks falsch waren.
+
+We all know people who were ignored or overlooked at first but went on to prove their critics wrong.
+
+我们都知道一些人，他们一开始被无视或者看低，却仍然证明他们的批评者错了。
+
 ## 2018.03.29
 
 Tatsächlich arbeitete das Team gerade an zwei dieser Ideen und dachte ernsthaft über die dritte nach. Ich bekam den Job.
