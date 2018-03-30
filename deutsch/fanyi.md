@@ -2,7 +2,7 @@
 
 ## 2018.03.30
 
-Wir alle kennen solche Leuten, die zu erst ignoriert oder unterschätzt wurden, aber schließlich beweisen konnten, dass ihre Kritiks falsch waren.
+Wir alle kennen Leute, die zunächst übersehen wurden, und dann zeigen, dass ihre Kritiker falschlagen.
 
 We all know people who were ignored or overlooked at first but went on to prove their critics wrong.
 
