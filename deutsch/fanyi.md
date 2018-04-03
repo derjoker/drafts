@@ -2,7 +2,7 @@
 
 ## 2018.04.02
 
-Die Vorsprung in Robotics und Maschinen, erlernt und verwandelt unsere Arbeitsweise, automatisiert in manchen Berufen Routineaufgaben und hilft in anderen humanitären Arbeit.
+Fortschritte in Robotik und maschinellem Lernen verändern unsere Arbeitsweise durch die Automatisierung von Routineaufgaben in vielen Bereichen, während in anderen Bereichen mehr Arbeitsplätze entstehen.
 
 The advances in robotics and machine learning and transforming the way we work, automating routine tasks in many occupations while augmenting and amplifying human labor in others.
 
