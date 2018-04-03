@@ -1,5 +1,13 @@
 # Übersetzen
 
+## 2018.04.02
+
+Die Vorsprung in Robotics und Maschinen, erlernt und verwandelt unsere Arbeitsweise, automatisiert in manchen Berufen Routineaufgaben und hilft in anderen humanitären Arbeit.
+
+The advances in robotics and machine learning and transforming the way we work, automating routine tasks in many occupations while augmenting and amplifying human labor in others.
+
+机器学习和改变我们工作的方式，自动化一些工作中的常规任务，同时增强另一些中的人工。
+
 ## 2018.04.01
 
 Unsere Einstellungsverfahren des 20. Jahrhunderts versagen, denn wir übersehen Menschen mit unglaublichem Potential.
