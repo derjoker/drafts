@@ -1,5 +1,13 @@
 # Übersetzen
 
+## 2018.04.03
+
+Mit dieser Geschwindigkeit sollen wir uns alle für den restlichen Karriere auf die Arbeit erwarten, die wir nie gemacht haben.
+
+At this rate, we should all be expecting to do jobs we've never done before for the rest of our careers.
+
+按这样的速度，在我们剩下的职业生涯里，我们需要做我们从未做过的工作。
+
 ## 2018.04.02
 
 Fortschritte in Robotik und maschinellem Lernen verändern unsere Arbeitsweise durch die Automatisierung von Routineaufgaben in vielen Bereichen, während in anderen Bereichen mehr Arbeitsplätze entstehen.
