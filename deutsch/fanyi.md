@@ -1,5 +1,13 @@
 # Übersetzen
 
+## 2018.03.31
+
+Meine beliebte Geschichte? Brian Acton, ein Ingenieur Manager, der von Twitter und Facebook abgelehnt wurde bevor er gründete WhatsApp mit, das mobil Nachrichten Plattform, das für 19 Milliarden Dollar verkauft wurde.
+
+My favorite story? Brian Acton, an engineering manager who was rejected by both Twitter and Facebook before cofounding WhatsApp, the mobile messaging platform that would sell for 19 billion dollars.
+
+我最喜欢的故事？Brian Acton，一个工程经理，被Twitter和Facebook拒绝后，他共同创建了WhatsApp，这个移动消息平台后来卖到190亿美元。
+
 ## 2018.03.30
 
 Wir alle kennen Leute, die zunächst übersehen wurden, und dann zeigen, dass ihre Kritiker falschlagen.
