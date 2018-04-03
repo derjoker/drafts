@@ -2,7 +2,7 @@
 
 ## 2018.04.01
 
-Die Bewerbungssystem, die wir in den zwanziger Jahrhundert gründete, hat uns gescheitert und hat uns dazu gelitten, Leute mit großer Möglichkeit zu vermissen.
+Unsere Einstellungsverfahren des 20. Jahrhunderts versagen, denn wir übersehen Menschen mit unglaublichem Potential.
 
 The hiring systems we built in the 20th century are failing us and causing us to miss out on people with incredible potential.
 
