@@ -1,5 +1,13 @@
 # Übersetzen
 
+## 2018.04.01
+
+Die Bewerbungssystem, die wir in den zwanziger Jahrhundert gründete, hat uns gescheitert und hat uns dazu gelitten, Leute mit großer Möglichkeit zu vermissen.
+
+The hiring systems we built in the 20th century are failing us and causing us to miss out on people with incredible potential.
+
+我们20世纪建立的招聘系统正令我们失望，使得我们错过有巨大潜力的人。
+
 ## 2018.03.31
 
 Mein Lieblingsbeispiel? Brian Acton, ein Engineering-Manager, der zunächst von Twitter und Facebook abgelehnt wurde, bevor er WhatsApp mitgründete, den Messenger, den er später für 19 Mrd. Dollar verkaufte.
