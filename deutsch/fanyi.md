@@ -2,7 +2,7 @@
 
 ## 2018.03.31
 
-Meine beliebte Geschichte? Brian Acton, ein Ingenieur Manager, der von Twitter und Facebook abgelehnt wurde bevor er gründete WhatsApp mit, das mobil Nachrichten Plattform, das für 19 Milliarden Dollar verkauft wurde.
+Mein Lieblingsbeispiel? Brian Acton, ein Engineering-Manager, der zunächst von Twitter und Facebook abgelehnt wurde, bevor er WhatsApp mitgründete, den Messenger, den er später für 19 Mrd. Dollar verkaufte.
 
 My favorite story? Brian Acton, an engineering manager who was rejected by both Twitter and Facebook before cofounding WhatsApp, the mobile messaging platform that would sell for 19 billion dollars.
 
