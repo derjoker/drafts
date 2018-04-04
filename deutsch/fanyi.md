@@ -2,7 +2,7 @@
 
 ## 2018.04.04
 
-Was für Werkzeugen und Strategie brauchen wir, um zukunftigen Arbeiter zu erkennen?
+Worauf müssen wir also achten, um die Leistungsträger von morgen zu finden?
 
 So what are the tools and strategies we need to identify tomorrow's high performers?
 
