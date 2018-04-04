@@ -1,5 +1,13 @@
 # Übersetzen
 
+## 2018.04.04
+
+Was für Werkzeugen und Strategie brauchen wir, um zukunftigen Arbeiter zu erkennen?
+
+So what are the tools and strategies we need to identify tomorrow's high performers?
+
+我们需要什么样的工具和策略，来识别未来的生产者？
+
 ## 2018.04.03
 
 Wir sollten also alle bald nur noch Jobs erwarten, die wir nie vorher gemacht haben.
