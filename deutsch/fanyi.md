@@ -1,5 +1,13 @@
 # Übersetzen
 
+## 2018.04.05
+
+Auf Suche nach Antworten habe ich Leiter consultiert, Berichten und Recherche gelesen und mich einige Untersuchungen durchgeführt.
+
+In search for answers, I've consulted with leaders across many sectors, read dozens of reports and research papers and conducted some of my own talent experiments.
+
+为找寻答案，我咨询了很多领域的领导，读了大量的报告和论文，自己也做了一些实验。
+
 ## 2018.04.04
 
 Worauf müssen wir also achten, um die Leistungsträger von morgen zu finden?
