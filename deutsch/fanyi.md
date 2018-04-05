@@ -2,7 +2,7 @@
 
 ## 2018.04.05
 
-Auf Suche nach Antworten habe ich Leiter consultiert, Berichten und Recherche gelesen und mich einige Untersuchungen durchgeführt.
+Ich traf mich mit Führungskräften aus verschiedenen Bereichen, las dutzende von Berichten und Studien und führte eigene Experimente durch.
 
 In search for answers, I've consulted with leaders across many sectors, read dozens of reports and research papers and conducted some of my own talent experiments.
 
