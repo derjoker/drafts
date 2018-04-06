@@ -1,5 +1,13 @@
 # Übersetzen
 
+## 2018.04.06
+
+Meine Untersuchung ist weit von fertig, aber hier sind drei Ideen, fortzusetzen.
+
+My quest is far from over, but here are three ideas to take forward.
+
+我的探寻还远没有结束，但这儿有三个想法去开始。
+
 ## 2018.04.05
 
 Ich traf mich mit Führungskräften aus verschiedenen Bereichen, las dutzende von Berichten und Studien und führte eigene Experimente durch.
