@@ -2,7 +2,7 @@
 
 ## 2018.04.06
 
-Meine Untersuchung ist weit von fertig, aber hier sind drei Ideen, fortzusetzen.
+Ich bin noch lange nicht damit fertig, aber hier sind drei wichtige Ideen.
 
 My quest is far from over, but here are three ideas to take forward.
 
