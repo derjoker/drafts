@@ -1,5 +1,13 @@
 # Übersetzen
 
+## 2018.04.07
+
+Wenn wir keine ganze Einsicht von jemandem haben, wird Unseres Urteil von diesem immer falsch sein.
+
+Until we get a holistic view of someone, our judgment of them will always be flawed.
+
+除非我们能够全面了解某人，我们的判断都会是有缺陷的。
+
 ## 2018.04.06
 
 Ich bin noch lange nicht damit fertig, aber hier sind drei wichtige Ideen.
