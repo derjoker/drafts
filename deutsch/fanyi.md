@@ -2,7 +2,7 @@
 
 ## 2018.04.07
 
-Wenn wir keine ganze Einsicht von jemandem haben, wird Unseres Urteil von diesem immer falsch sein.
+Bevor wir kein ganzheitliches Bild von jemandem bekommen, können unsere Entscheidungen nur fehlerhaft sein.
 
 Until we get a holistic view of someone, our judgment of them will always be flawed.
 
