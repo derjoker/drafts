@@ -1,5 +1,13 @@
 # Übersetzen
 
+## 2018.04.08
+
+Lass uns davon halten, Erlebniss mit Tauglichkeit und Vertrauen mit Kompetenz zu vermischen.
+
+Let's stop equating experience with ability, credentials with competence.
+
+让我们不再将经历和能力划等号，可信度和竞争力划等号。
+
 ## 2018.04.07
 
 Bevor wir kein ganzheitliches Bild von jemandem bekommen, können unsere Entscheidungen nur fehlerhaft sein.
