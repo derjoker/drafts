@@ -2,11 +2,11 @@
 
 ## 2018.04.08
 
-Lass uns davon halten, Erlebniss mit Tauglichkeit und Vertrauen mit Kompetenz zu vermischen.
+Wir müssen aufhören, Erfahrung mit Fähigkeit oder Zeugnisse mit Kompetenz gleichzusetzen.
 
 Let's stop equating experience with ability, credentials with competence.
 
-让我们不再将经历和能力划等号，可信度和竞争力划等号。
+让我们不再将经历和能力划等号，证书和竞争力划等号。
 
 ## 2018.04.07
 
