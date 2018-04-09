@@ -1,5 +1,13 @@
 # Übersetzen
 
+## 2018.04.09
+
+Ein Zug bewegte schnell. Er war mit Menschen überfallt. Ein sechsjähriger Junge war in der dritten Wagen gestorben.
+
+A train was moving quickly. It was packed with humans. A six-year-old boy died in the third carriage.
+
+列车飞速前进。车上装满了人。一个六岁的小男孩死在了第三节车厢里。
+
 ## 2018.04.08
 
 Wir müssen aufhören, Erfahrung mit Fähigkeit oder Zeugnisse mit Kompetenz gleichzusetzen.
