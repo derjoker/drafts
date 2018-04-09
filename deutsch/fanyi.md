@@ -2,7 +2,7 @@
 
 ## 2018.04.09
 
-Ein Zug bewegte schnell. Er war mit Menschen überfallt. Ein sechsjähriger Junge war in der dritten Wagen gestorben.
+Ein Zug fuhr schnell. Er war vollgepackt mit Menschen. Im dritten Wagen starb ein sechsjähriger Junge.
 
 A train was moving quickly. It was packed with humans. A six-year-old boy died in the third carriage.
 
