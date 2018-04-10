@@ -2,7 +2,7 @@
 
 ## 2018.04.10
 
-Sie lernte nicht so gut zu sprechen oder lesen, weil sie ging selten auf Schule.
+Sie konnte nicht besonders gut sprechen, geschweige denn lesen, weil sie kaum je die Schule besucht hatte.
 
 She hadn't learned to speak too well, or even to read, as she had rarely frequented school.
 
