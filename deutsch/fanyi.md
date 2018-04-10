@@ -1,5 +1,13 @@
 # Übersetzen
 
+## 2018.04.10
+
+Sie lernte nicht so gut zu sprechen oder lesen, weil sie ging selten auf Schule.
+
+She hadn't learned to speak too well, or even to read, as she had rarely frequented school.
+
+她还没怎么学会说话，甚至不太会阅读，因为她没怎么上过学。
+
 ## 2018.04.09
 
 Ein Zug fuhr schnell. Er war vollgepackt mit Menschen. Im dritten Wagen starb ein sechsjähriger Junge.
