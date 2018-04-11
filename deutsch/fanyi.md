@@ -1,5 +1,13 @@
 # Übersetzen
 
+## 2018.04.11
+
+Ein kompletter Traum wäre besser, denke Ich, aber Ich habe darüber wirklich keine Kontrolle.
+
+It would be better for a complete dream, I think, but I really have no control over that.
+
+最好是一个完整的梦，我想，但是对此我无能为力。
+
 ## 2018.04.10
 
 Sie konnte nicht besonders gut sprechen, geschweige denn lesen, weil sie kaum je die Schule besucht hatte.
