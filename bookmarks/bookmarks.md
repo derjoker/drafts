@@ -26,6 +26,10 @@
 
 * [Lea Verou](http://lea.verou.me/): Life at the bleeding edge (of web standards)
 
+## Just For Fun
+
+* [9GAG](https://9gag.com/)
+
 ## 语言
 
 ### 应用
