@@ -2,11 +2,11 @@
 
 ## 2018.04.11
 
-Ein kompletter Traum wäre besser, denke Ich, aber Ich habe darüber wirklich keine Kontrolle.
+Ich glaube, es ist besser, ween ein Traum vollendet wird, aber darüber habe ich nun wirklich keine Macht.
 
 It would be better for a complete dream, I think, but I really have no control over that.
 
-最好是一个完整的梦，我想，但是对此我无能为力。
+我倒是愿意她把梦做完，但是我对此无能为力。
 
 ## 2018.04.10
 
