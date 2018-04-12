@@ -2,7 +2,7 @@
 
 ## 2018.04.12
 
-Warum shutteln sie ihnen? Ja, Ich weiß, Ich weiß, Ich denke, es hat etwas mit Instinkt zu tun.
+Warum zittern sie immer? Ja, ich weiß, ich weiß - ich nehme an, es hat etwas mit Instinkt zu tun.
 
 Why do they always shake them? Yes, I know, I know, I assume it has something to do with instinct.
 
