@@ -1,5 +1,13 @@
 # Übersetzen
 
+## 2018.04.12
+
+Warum shutteln sie ihnen? Ja, Ich weiß, Ich weiß, Ich denke, es hat etwas mit Instinkt zu tun.
+
+Why do they always shake them? Yes, I know, I know, I assume it has something to do with instinct.
+
+他们为什么要摇他呢？我知道，可能跟直觉有关吧。
+
 ## 2018.04.11
 
 Ich glaube, es ist besser, ween ein Traum vollendet wird, aber darüber habe ich nun wirklich keine Macht.
