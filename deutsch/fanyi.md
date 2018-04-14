@@ -1,5 +1,13 @@
 # Übersetzen
 
+## 2018.04.14
+
+Entsetzt machte Die Mutter die Tür auf. Sie stieg in die Schnee ab, mit dem kleinen Körper am Hand.
+
+In panic, the mother opened the door. She climbed down into the snow, holding the small body.
+
+母亲慌乱地打开车门，爬下列车，抱着小小的身体走进雪地里。
+
 ## 2018.04.13
 
 Es schneite unentwegt, und der Zug nach München musste wegen eingeschneiter Gleise auf der Strecke anhalten.
