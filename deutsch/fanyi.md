@@ -2,11 +2,11 @@
 
 ## 2018.04.14
 
-Entsetzt machte Die Mutter die Tür auf. Sie stieg in die Schnee ab, mit dem kleinen Körper am Hand.
+In Panik öffnete die Mutter die Tür. Sie kletterte hinaus in den Schnee, den kleinen Körper in den Armen.
 
 In panic, the mother opened the door. She climbed down into the snow, holding the small body.
 
-母亲慌乱地打开车门，爬下列车，抱着小小的身体走进雪地里。
+母亲慌乱地打开车门，爬下列车，抱着男孩瘦小的身体，走进雪地里。
 
 ## 2018.04.13
 
