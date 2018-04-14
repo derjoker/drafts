@@ -2,11 +2,11 @@
 
 ## 2018.04.13
 
-Es schneite kontinuierlich, und wegen der falschen Schienearbeit war der Zug nach München gezwungen, aufzuhalten.
+Es schneite unentwegt, und der Zug nach München musste wegen eingeschneiter Gleise auf der Strecke anhalten.
 
 Snow had been falling consistently, and the service to Munich was forced to stop due to faulty track work.
 
-雪一直下，因为轨道错误，开往慕尼黑的列车不得不停下来。
+雪一直下，因为铁路故障，开往慕尼黑的列车不得不停下来。
 
 ## 2018.04.12
 
