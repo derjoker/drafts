@@ -1,5 +1,6 @@
 # Instapaper
 
+* [Ungewisse Zukunft: Wie verändern Roboter unser Leben? - Netzpiloten.de](https://www.instapaper.com/read/1035812339)
 * [Erfahrungen als hochsensible Autorin: Wie es ist ein Buch zu schreiben](https://www.instapaper.com/read/1027900974)
 * [Menschen, die keine Fragen stellen – Healthy Habits](https://www.instapaper.com/read/1035299210)
 * [US-Strafzölle gegen China - "Alle werden von einem solchen Handelskonflikt betroffen sein"](https://www.instapaper.com/read/1033814560)
