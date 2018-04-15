@@ -2,7 +2,7 @@
 
 ## 2018.04.15
 
-Endlich war es entschieden, dass alle drei nach die nächsten Haltestelle gebracht werden sollten und dort alles auszusortieren.
+Es wurde schließlich beschlossen, dass alle drei zur nächsten Station gebracht werden sollten, wo man Weiteres veranlassen würde.
 
 It was eventually decided that all three of them should be taken to the next township and left there to sort things out.
 
