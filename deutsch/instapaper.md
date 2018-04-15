@@ -1,170 +1,20 @@
 # Instapaper
 
-## [Erfahrungen als hochsensible Autorin: Wie es ist ein Buch zu schreiben](https://www.instapaper.com/read/1027900974)
-
-2018.03.29
-
-## [Menschen, die keine Fragen stellen – Healthy Habits](https://www.instapaper.com/read/1035299210)
-
-2018.03.28
-
-## [US-Strafzölle gegen China - "Alle werden von einem solchen Handelskonflikt betroffen sein"](https://www.instapaper.com/read/1033814560)
-
-* Was **kommt** da auf die Weltwirtschaft **zu**?
-* in **Anführungszeichen**
-* Die Konsequenz für die Wirtschaft beider Länder wäre **verheerend**.
-* Dieser Realität werden wir **uns stellen** müssen.
-
-2018.03.26
-
-## [Neue Rekordwerte - Weltweiter CO2-Ausstoß so hoch wie noch nie](https://www.instapaper.com/read/1032906199)
-
-* die **Umstellung** von Kohle auf Gas
-* Der CO2-**Gehalt** der Atmosphäre steigt weiter.
-
-2018.03.25
-
-## [Netzwerkdurchsetzungsgesetz - Gegen Hass oder gegen Meinungsfreiheit?](https://www.instapaper.com/read/1025392252)
-
-* das Gesetz **zwingt** uns die Verantwortung **auf**
-* in dem **Bedenken** von ...
-* egal, in welcher Stadt dieser Welt der Terrorangriff **stattfindet**
-* dieser Fall **macht** deutlich, dass ...
-* Dieser Verpflichtung sind die großen Netzwerke, also ganz genau Facebook und Twitter, unzureichend **nachgekommen**.
-* die deutschen Gesetze **einhalten**
-* an dem Gesetz **festhalten**
-* **sich** an Regeln **halten**
-* ... **stört** viele Kritiker
-
-2018.03.24
-
-## [Hyperschall-Technologie - "Fragestellungen gibt es noch eine ganze Menge"](https://www.instapaper.com/read/1025382400)
-
-* Insbesondere im militärischen Kontext werden diese Technologien **relevanter**.
-* Die Antriebstechnologie **stellt** doch eine große Herausforderung **dar**.
-* Antriebstechnologie ist noch eine **wahnsinnige** Herausforderung.
-* aus meiner Sicht ist es **zwingend** notwendig, ...
-
-2018.03.11
-
-## [Veränderungen angehen: "Morgen fange ich an"](https://www.instapaper.com/read/1025445431)
-
-* wenn du dich dabei **erwischst**, ...
-* sich einer Träumerei **hingeben**
-
-2018.03.08
-
-## [Verkehr in Luxemburg - Ein Land steht im Stau](https://www.instapaper.com/read/1020906749)
-
-* Die Busse verkehren im **Minutentakt** in Luxemburg.
-
-2018.03.06
-
-## [Selbständig machen im Internet: Was es (wirklich) bedeutet](https://www.instapaper.com/read/1022561378)
-
-* Gastbeitrag
-* stiften
-
-2018.03.11;2018.03.09;2018.03.07;2018.03.05;2018.03.04
-
-## [Rückkehr in den Senegal - "Ich bin mit leeren Händen gekommen"](https://www.instapaper.com/read/1019605393)
-
-* verdecken
-* leiden, gelitten
-* Ansehen
-* Analphabet
-* erarbeiten
-* wahrhaben
-
-2018.03.03
-
-## [Gender studies - Getrennte Spielwelten](https://www.instapaper.com/read/1013151057)
-
-* Sehnsucht
-* Folge
-* bekunden
-
-2018.03.03
-
-## [Ergebnisse um jeden Preis - Wenn Forscher betrügen](https://www.instapaper.com/read/1019596803)
-
-* hässlich
-* fälschen, Fälschung
-* vorzubeugen
-* vollständig
-* erfunden
-* festlegen
-
-2018.03.02
-
-## [China - Das Projekt Weltmacht](https://www.instapaper.com/read/1010408973)
-
-* renommiert
-* insofern
-* Wohlstand
-* verwandeln
-* ausfüllen
-* Gegenzug
-* anstreben
-* bedrohen
-* Auswirkung
-
-2018.03.02
-
-## [Heimat auf Zeit - Wie ausländische Fachkräfte Berlin verändern](https://www.instapaper.com/read/1014556762)
-
-* auf den Nägeln brennen
-* zählen
-* wagen
-* holen
-* wenden, wandten
-* vorantreiben
-
-2018.03.05;2018.03.02
-
-## [Widerstandsgruppe um Geschwister Scholl - Das Ende der "Weißen Rose"](https://www.instapaper.com/read/1019605405)
-
-* empfänglich
-* verbrauchen
-* berüchtigt
-* beträchtlich
-
-2018.03.02
-
-## [Terror auf den Philippinen - Der lange Arm des IS auf Mindanao](https://www.instapaper.com/read/1019270850)
-
-* Überfall
-* versorgen, unterstützen
-* verweisen
-* Großteil
-
-2018.03.01
-
-## [Folgen der E-Mobilität - Harte Zeiten für die Auto-Zulieferer](https://www.instapaper.com/read/1010409134)
-
-* herstellen, hergestellt
-* bescheren
-* der Vorsprung
-* Anteil
-* verfügen
-* abbauen
-* Übergang
-* schleunig, schleunigst
-
-2018.03.01
-
-## [Jugoslawienkrieg - Kroatiens unbewältigte Vergangenheit](https://www.instapaper.com/read/1020440863)
-
-* Befund
-* Entsetzen
-* Ruhm
-* Unbehagen
-* der Mythos, des Mythos, die Mythen
-* darstellen
-* eigenartig
-* eigentlich
-* empfinden
-* pur
-* ungeheuer
-
-2018.03.01
+* [Erfahrungen als hochsensible Autorin: Wie es ist ein Buch zu schreiben](https://www.instapaper.com/read/1027900974)
+* [Menschen, die keine Fragen stellen – Healthy Habits](https://www.instapaper.com/read/1035299210)
+* [US-Strafzölle gegen China - "Alle werden von einem solchen Handelskonflikt betroffen sein"](https://www.instapaper.com/read/1033814560)
+* [Neue Rekordwerte - Weltweiter CO2-Ausstoß so hoch wie noch nie](https://www.instapaper.com/read/1032906199)
+* [Netzwerkdurchsetzungsgesetz - Gegen Hass oder gegen Meinungsfreiheit?](https://www.instapaper.com/read/1025392252)
+* [Hyperschall-Technologie - "Fragestellungen gibt es noch eine ganze Menge"](https://www.instapaper.com/read/1025382400)
+* [Veränderungen angehen: "Morgen fange ich an"](https://www.instapaper.com/read/1025445431)
+* [Verkehr in Luxemburg - Ein Land steht im Stau](https://www.instapaper.com/read/1020906749)
+* [Selbständig machen im Internet: Was es (wirklich) bedeutet](https://www.instapaper.com/read/1022561378)
+* [Rückkehr in den Senegal - "Ich bin mit leeren Händen gekommen"](https://www.instapaper.com/read/1019605393)
+* [Gender studies - Getrennte Spielwelten](https://www.instapaper.com/read/1013151057)
+* [Ergebnisse um jeden Preis - Wenn Forscher betrügen](https://www.instapaper.com/read/1019596803)
+* [China - Das Projekt Weltmacht](https://www.instapaper.com/read/1010408973)
+* [Heimat auf Zeit - Wie ausländische Fachkräfte Berlin verändern](https://www.instapaper.com/read/1014556762)
+* [Widerstandsgruppe um Geschwister Scholl - Das Ende der "Weißen Rose"](https://www.instapaper.com/read/1019605405)
+* [Terror auf den Philippinen - Der lange Arm des IS auf Mindanao](https://www.instapaper.com/read/1019270850)
+* [Folgen der E-Mobilität - Harte Zeiten für die Auto-Zulieferer](https://www.instapaper.com/read/1010409134)
+* [Jugoslawienkrieg - Kroatiens unbewältigte Vergangenheit](https://www.instapaper.com/read/1020440863)
