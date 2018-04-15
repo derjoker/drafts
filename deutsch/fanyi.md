@@ -1,5 +1,13 @@
 # Übersetzen
 
+## 2018.04.15
+
+Endlich war es entschieden, dass alle drei nach die nächsten Haltestelle gebracht werden sollten und dort alles auszusortieren.
+
+It was eventually decided that all three of them should be taken to the next township and left there to sort things out.
+
+最终决定，她们三个都要带到下个小镇，在那里把事情处理好。
+
 ## 2018.04.14
 
 In Panik öffnete die Mutter die Tür. Sie kletterte hinaus in den Schnee, den kleinen Körper in den Armen.
