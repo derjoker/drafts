@@ -1,5 +1,13 @@
 # Übersetzen
 
+## 2018.04.16
+
+Liesel hatte keine Ahnung, wo sie war. Alles sind weiß, und als sie im Station bliebten, starrte sie nur an die Buchstaben auf einem Zeichen, das vor ihr stand.
+
+Liesel had no idea where she was. All was white, and as they remained at the station, she could only stare at the faded lettering of the sign in front of her.
+
+Liesel不知道她身在何处，白茫茫一片。他们留在车站，而她只能盯着面前指示牌上模糊的字母。
+
 ## 2018.04.15
 
 Es wurde schließlich beschlossen, dass alle drei zur nächsten Station gebracht werden sollten, wo man Weiteres veranlassen würde.
