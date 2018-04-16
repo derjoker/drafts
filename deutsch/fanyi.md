@@ -2,7 +2,7 @@
 
 ## 2018.04.16
 
-Liesel hatte keine Ahnung, wo sie war. Alles sind weiß, und als sie im Station bliebten, starrte sie nur an die Buchstaben auf einem Zeichen, das vor ihr stand.
+Liesel hatte keine Ahnung, wo sie sich befand. Alles war weiß, und als sie im Bahnhof zurückblieben, starrte sie auf die verblassten Buchstaben auf dem Schild vor ihr.
 
 Liesel had no idea where she was. All was white, and as they remained at the station, she could only stare at the faded lettering of the sign in front of her.
 
