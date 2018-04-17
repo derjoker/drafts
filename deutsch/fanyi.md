@@ -1,5 +1,13 @@
 # Übersetzen
 
+## 2018.04.17
+
+Einige Milen entfernt, als ich näherte, sah ich bereits eine kleine Gruppe von Menschen, die in der Mittel von Schneefeld stiff standen.
+
+From miles away, as I approached, I could already see the small group of humans standing frigidly among the wasteland of snow.
+
+我从远处慢慢靠近，我能看到，一群人僵直地站立在荒芜的雪地里。
+
 ## 2018.04.16
 
 Liesel hatte keine Ahnung, wo sie sich befand. Alles war weiß, und als sie im Bahnhof zurückblieben, starrte sie auf die verblassten Buchstaben auf dem Schild vor ihr.
