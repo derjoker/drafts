@@ -2,15 +2,15 @@
 
 ## 2018.04.17
 
-Einige Milen entfernt, als ich näherte, sah ich bereits eine kleine Gruppe von Menschen, die in der Mittel von Schneefeld stiff standen.
+Bereits aus großer Entfernung sah ich die kleine Gruppe Menschen **steif** inmitten des Ödlands aus Schnee stehen.
 
 From miles away, as I approached, I could already see the small group of humans standing frigidly among the wasteland of snow.
 
-我从远处慢慢靠近，我能看到，一群人僵直地站立在荒芜的雪地里。
+我从远处慢慢靠近，我能看到，一群人漠然地站立在荒芜的雪地里。
 
 ## 2018.04.16
 
-Liesel hatte keine Ahnung, wo sie sich befand. Alles war weiß, und als sie im Bahnhof zurückblieben, starrte sie auf die verblassten Buchstaben auf dem Schild vor ihr.
+Liesel hatte keine Ahnung, wo sie **sich befand**. Alles war weiß, und als sie im Bahnhof zurückblieben, starrte sie auf die verblassten Buchstaben auf dem Schild vor ihr.
 
 Liesel had no idea where she was. All was white, and as they remained at the station, she could only stare at the faded lettering of the sign in front of her.
 
@@ -18,7 +18,7 @@ Liesel不知道她身在何处，白茫茫一片。他们留在车站，而她�
 
 ## 2018.04.15
 
-Es wurde schließlich beschlossen, dass alle drei zur nächsten Station gebracht werden sollten, wo man Weiteres veranlassen würde.
+Es wurde schließlich **beschlossen**, dass alle drei zur nächsten Station gebracht werden sollten, wo man Weiteres veranlassen würde.
 
 It was eventually decided that all three of them should be taken to the next township and left there to sort things out.
 
@@ -26,7 +26,7 @@ It was eventually decided that all three of them should be taken to the next tow
 
 ## 2018.04.14
 
-In Panik öffnete die Mutter die Tür. Sie kletterte hinaus in den Schnee, den kleinen Körper in den Armen.
+In Panik öffnete die Mutter die Tür. Sie **kletterte** hinaus in den Schnee, den kleinen Körper in den Armen.
 
 In panic, the mother opened the door. She climbed down into the snow, holding the small body.
 
@@ -34,7 +34,7 @@ In panic, the mother opened the door. She climbed down into the snow, holding th
 
 ## 2018.04.13
 
-Es schneite unentwegt, und der Zug nach München musste wegen eingeschneiter Gleise auf der Strecke anhalten.
+Es schneite unentwegt, und der Zug nach München musste wegen eingeschneiter Gleise auf der Strecke **anhalten**.
 
 Snow had been falling consistently, and the service to Munich was forced to stop due to faulty track work.
 
@@ -42,7 +42,7 @@ Snow had been falling consistently, and the service to Munich was forced to stop
 
 ## 2018.04.12
 
-Warum zittern sie immer? Ja, ich weiß, ich weiß - ich nehme an, es hat etwas mit Instinkt zu tun.
+Warum zittern sie immer? Ja, ich weiß, ich weiß - ich **nehme an**, es hat etwas mit Instinkt zu tun.
 
 Why do they always shake them? Yes, I know, I know, I assume it has something to do with instinct.
 
@@ -50,7 +50,7 @@ Why do they always shake them? Yes, I know, I know, I assume it has something to
 
 ## 2018.04.11
 
-Ich glaube, es ist besser, ween ein Traum vollendet wird, aber darüber habe ich nun wirklich keine Macht.
+Ich glaube, es ist besser, ween ein Traum vollendet wird, aber darüber habe ich nun wirklich keine **Macht**.
 
 It would be better for a complete dream, I think, but I really have no control over that.
 
@@ -58,7 +58,7 @@ It would be better for a complete dream, I think, but I really have no control o
 
 ## 2018.04.10
 
-Sie konnte nicht besonders gut sprechen, geschweige denn lesen, weil sie kaum je die Schule besucht hatte.
+Sie konnte nicht besonders gut sprechen, **geschweige denn** lesen, weil sie kaum je die Schule **besucht** hatte.
 
 She hadn't learned to speak too well, or even to read, as she had rarely frequented school.
 
@@ -66,7 +66,7 @@ She hadn't learned to speak too well, or even to read, as she had rarely frequen
 
 ## 2018.04.09
 
-Ein Zug fuhr schnell. Er war vollgepackt mit Menschen. Im dritten Wagen starb ein sechsjähriger Junge.
+Ein Zug **fuhr** schnell. Er war vollgepackt mit Menschen. Im dritten Wagen starb ein sechsjähriger Junge.
 
 A train was moving quickly. It was packed with humans. A six-year-old boy died in the third carriage.
 
@@ -74,7 +74,7 @@ A train was moving quickly. It was packed with humans. A six-year-old boy died i
 
 ## 2018.04.08
 
-Wir müssen aufhören, Erfahrung mit Fähigkeit oder Zeugnisse mit Kompetenz gleichzusetzen.
+Wir müssen **aufhören**, Erfahrung mit Fähigkeit oder Zeugnisse mit Kompetenz gleichzusetzen.
 
 Let's stop equating experience with ability, credentials with competence.
 
@@ -82,7 +82,7 @@ Let's stop equating experience with ability, credentials with competence.
 
 ## 2018.04.07
 
-Bevor wir kein ganzheitliches Bild von jemandem bekommen, können unsere Entscheidungen nur fehlerhaft sein.
+Bevor wir kein ganzheitliches Bild von jemandem bekommen, können unsere Entscheidungen nur **fehlerhaft** sein.
 
 Until we get a holistic view of someone, our judgment of them will always be flawed.
 
@@ -90,7 +90,7 @@ Until we get a holistic view of someone, our judgment of them will always be fl
 
 ## 2018.04.06
 
-Ich bin noch lange nicht damit fertig, aber hier sind drei wichtige Ideen.
+Ich bin noch lange nicht damit **fertig**, aber hier sind drei wichtige Ideen.
 
 My quest is far from over, but here are three ideas to take forward.
 
@@ -98,7 +98,7 @@ My quest is far from over, but here are three ideas to take forward.
 
 ## 2018.04.05
 
-Ich traf mich mit Führungskräften aus verschiedenen Bereichen, las dutzende von Berichten und Studien und führte eigene Experimente durch.
+Ich traf mich mit Führungskräften aus verschiedenen Bereichen, las dutzende von Berichten und Studien und **führte** eigene Experimente **durch**.
 
 In search for answers, I've consulted with leaders across many sectors, read dozens of reports and research papers and conducted some of my own talent experiments.
 
@@ -106,7 +106,7 @@ In search for answers, I've consulted with leaders across many sectors, read do
 
 ## 2018.04.04
 
-Worauf müssen wir also achten, um die Leistungsträger von morgen zu finden?
+Worauf müssen wir also achten, um die **Leistungsträger** von morgen zu finden?
 
 So what are the tools and strategies we need to identify tomorrow's high performers?
 
@@ -114,7 +114,7 @@ So what are the tools and strategies we need to identify tomorrow's high perform
 
 ## 2018.04.03
 
-Wir sollten also alle bald nur noch Jobs erwarten, die wir nie vorher gemacht haben.
+Wir sollten also alle bald nur noch Jobs **erwarten**, die wir nie vorher gemacht haben.
 
 At this rate, we should all be expecting to do jobs we've never done before for the rest of our careers.
 
@@ -122,7 +122,7 @@ At this rate, we should all be expecting to do jobs we've never done before for 
 
 ## 2018.04.02
 
-Fortschritte in Robotik und maschinellem Lernen verändern unsere Arbeitsweise durch die Automatisierung von Routineaufgaben in vielen Bereichen, während in anderen Bereichen mehr Arbeitsplätze entstehen.
+**Fortschritte** in Robotik und maschinellem Lernen verändern unsere Arbeitsweise durch die Automatisierung von Routineaufgaben in vielen Bereichen, während in anderen Bereichen mehr Arbeitsplätze entstehen.
 
 The advances in robotics and machine learning and transforming the way we work, automating routine tasks in many occupations while augmenting and amplifying human labor in others.
 
@@ -130,7 +130,7 @@ The advances in robotics and machine learning and transforming the way we work, 
 
 ## 2018.04.01
 
-Unsere Einstellungsverfahren des 20. Jahrhunderts versagen, denn wir übersehen Menschen mit unglaublichem Potential.
+Unsere Einstellungsverfahren des 20. Jahrhunderts versagen, denn wir **übersehen** Menschen mit unglaublichem Potential.
 
 The hiring systems we built in the 20th century are failing us and causing us to miss out on people with incredible potential.
 
@@ -138,7 +138,7 @@ The hiring systems we built in the 20th century are failing us and causing us to
 
 ## 2018.03.31
 
-Mein Lieblingsbeispiel? Brian Acton, ein Engineering-Manager, der zunächst von Twitter und Facebook abgelehnt wurde, bevor er WhatsApp mitgründete, den Messenger, den er später für 19 Mrd. Dollar verkaufte.
+Mein **Lieblingsbeispiel**? Brian Acton, ein Engineering-Manager, der zunächst von Twitter und Facebook abgelehnt wurde, bevor er WhatsApp mitgründete, den Messenger, den er später für 19 Mrd. Dollar verkaufte.
 
 My favorite story? Brian Acton, an engineering manager who was rejected by both Twitter and Facebook before cofounding WhatsApp, the mobile messaging platform that would sell for 19 billion dollars.
 
@@ -146,7 +146,7 @@ My favorite story? Brian Acton, an engineering manager who was rejected by both 
 
 ## 2018.03.30
 
-Wir alle kennen Leute, die zunächst übersehen wurden, und dann zeigen, dass ihre Kritiker falschlagen.
+Wir alle kennen Leute, die zunächst **übersehen** wurden, und dann zeigen, dass ihre Kritiker falschlagen.
 
 We all know people who were ignored or overlooked at first but went on to prove their critics wrong.
 
@@ -154,7 +154,7 @@ We all know people who were ignored or overlooked at first but went on to prove 
 
 ## 2018.03.29
 
-Tatsächlich arbeitete das Team gerade an zwei dieser Ideen und dachte ernsthaft über die dritte nach. Ich bekam den Job.
+**Tatsächlich** arbeitete das Team gerade an zwei dieser Ideen und dachte ernsthaft über die dritte nach. Ich bekam den Job.
 
 It turned out the team was actively working on two of those ideas and had seriously considered a third. I got the job.
 
@@ -162,7 +162,7 @@ It turned out the team was actively working on two of those ideas and had seriou
 
 ## 2018.03.28
 
-Das Unternehmen war kürzlich an die Börse gegangen. Zur Bewerbungsvorbereitung las ich alles über ihren Börsengang und erstellte eine ganz neue Webseite, die meine Geschäftsanalyse und vier Ideen für Neuerungen enthielt.
+Das Unternehmen war kürzlich an die **Börse** gegangen. Zur Bewerbungsvorbereitung las ich alles über ihren **Börsengang** und erstellte eine ganz neue Webseite, die meine Geschäftsanalyse und vier Ideen für Neuerungen enthielt.
 
 The company had recently gone public, so as part of my job application, I read the IPO filings from cover to cover and built a website from scratch which included my analysis of the business and four ideas for new features.
 
