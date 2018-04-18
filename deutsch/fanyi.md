@@ -2,7 +2,7 @@
 
 ## 2018.04.18
 
-Als er entfernte, ein paar Schritte, fiel ein schwarzes Buch wahrnehmungslos von seinem Tasche.
+Als er davonging, fiel **ihm** nach ein paar Dutzend Schritten ein schwarzes Buch aus der Manteltasche, ohne dass er es merkte.
 
 When he walked away, after a few dozen paces, a black book fell innocuously from his coat pocket without his knowledege.
 
