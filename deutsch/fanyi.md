@@ -1,5 +1,13 @@
 # Übersetzen
 
+## 2018.04.18
+
+Als er entfernte, ein paar Schritte, fiel ein schwarzes Buch wahrnehmungslos von seinem Tasche.
+
+When he walked away, after a few dozen paces, a black book fell innocuously from his coat pocket without his knowledege.
+
+当他走开的时候，几十步，一本黑色的书从他的上衣口袋里掉出来，一点也不知道。
+
 ## 2018.04.17
 
 Bereits aus großer Entfernung sah ich die kleine Gruppe Menschen **steif** inmitten des Ödlands aus Schnee stehen.
