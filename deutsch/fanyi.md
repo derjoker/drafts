@@ -2,7 +2,7 @@
 
 ## 2018.04.19
 
-Irgendwo in der Schnee sah sie ihre bruchten Herzen, in zwei Häfte.
+Irgendwo in all dem Schnee sah sie ihr entzweigebrochenes Herz.
 
 Somewhere in all the snow, she could see her broken heart, in two pieces.
 
