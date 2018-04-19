@@ -1,5 +1,13 @@
 # Übersetzen
 
+## 2018.04.19
+
+Irgendwo in der Schnee sah sie ihre bruchten Herzen, in zwei Häfte.
+
+Somewhere in all the snow, she could see her broken heart, in two pieces.
+
+在雪地里，她仿佛看见她的心碎成两半。
+
 ## 2018.04.18
 
 Als er davonging, fiel **ihm** nach ein paar Dutzend Schritten ein schwarzes Buch aus der Manteltasche, ohne dass er es merkte.
