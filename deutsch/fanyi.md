@@ -1,5 +1,13 @@
 # Übersetzen
 
+## 2018.04.20
+
+Sie 
+
+She bent down and picked it up and held it firmly in her fingers.
+
+她弯腰拾起（书），紧紧地抓在手里。
+
 ## 2018.04.19
 
 Irgendwo in all dem Schnee sah sie ihr entzweigebrochenes Herz.
