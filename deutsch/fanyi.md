@@ -2,7 +2,7 @@
 
 ## 2018.04.20
 
-Sie 
+Sie **bückte** sich, hob es auf und hielt es fest in ihren Fingern.
 
 She bent down and picked it up and held it firmly in her fingers.
 
@@ -10,7 +10,7 @@ She bent down and picked it up and held it firmly in her fingers.
 
 ## 2018.04.19
 
-Irgendwo in all dem Schnee sah sie ihr entzweigebrochenes Herz.
+Irgendwo in all dem Schnee sah sie ihr entzwei**gebrochenes** Herz.
 
 Somewhere in all the snow, she could see her broken heart, in two pieces.
 
