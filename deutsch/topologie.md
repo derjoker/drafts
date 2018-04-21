@@ -48,7 +48,7 @@ fürchten, befürchten
 bewältigen
 bekämpfen
 
-verlässlich, verlässlig
+zuverlässig, verlässlich
 
 Kompetenz ausbauen
 abbauen
