@@ -1,5 +1,13 @@
 # Übersetzen
 
+## 2018.04.21
+
+Die Mutter und die Tochter verließen den Gräbnis und machten sich auf den Weg nach München.
+
+Mother and daughter vacated the cemetery and made their way toward the next train to Munich.
+
+母亲和女儿走出墓地，准备搭乘下一班开往慕尼黑的火车。
+
 ## 2018.04.20
 
 Sie **bückte** sich, hob es auf und hielt es fest in ihren Fingern.
