@@ -1,5 +1,16 @@
 # Topologie
 
+Gegenteil 相反
+Gegensatz 不同
+
+entsetzt, hilflos 惊慌失措，无助
+
+Erzählung 讲述
+Erläuterung 解释，阐述，说明
+
+hohes Ansehen, guter Ruf
+Aufsehen 轰动效应
+
 empfänglich, anfällig 易受影响的
 
 auftreten, auftauchen
