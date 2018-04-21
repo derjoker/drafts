@@ -2,7 +2,7 @@
 
 ## 2018.04.21
 
-Die Mutter und die Tochter verließen den Gräbnis und machten sich auf den Weg nach München.
+Mutter und Tochter ließen den Friedhof hinter sich und machten sich auf zum Bahnhof, um den nächsten Zug zu **besteigen**, der nach München fuhr.
 
 Mother and daughter vacated the cemetery and made their way toward the next train to Munich.
 
