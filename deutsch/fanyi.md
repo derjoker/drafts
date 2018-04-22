@@ -1,5 +1,13 @@
 # Übersetzen
 
+## 2018.04.22
+
+Als der Zug am München Bahnhof aufhörte, gingen die Fahrgäste heraus, als ob von einem Paket.
+
+When the train pulled into the Bahnhof in Munich, the passengers slid out as if from a torn package.
+
+列车在慕尼黑火车站停下来，乘客们从破箱子一样的车厢里走出来。
+
 ## 2018.04.21
 
 Mutter und Tochter ließen den Friedhof hinter sich und machten sich auf zum Bahnhof, um den nächsten Zug zu **besteigen**, der nach München fuhr.
