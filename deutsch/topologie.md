@@ -1,5 +1,13 @@
 # Topologie
 
+stemmen von jdm.
+stemmen aus etw.
+
+zerlegen, abbauen, demontieren, ausbauen
+Kompetenz ausbauen
+
+überholen, übertreffen
+
 Gegenteil 相反
 Gegensatz 不同
 
@@ -49,9 +57,6 @@ bewältigen
 bekämpfen
 
 zuverlässig, verlässlich
-
-Kompetenz ausbauen
-abbauen
 
 eine Rolle ausfüllen
 Erwartungen erfüllen
