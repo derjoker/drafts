@@ -2,7 +2,7 @@
 
 ## 2018.04.22
 
-Als der Zug am München Bahnhof aufhörte, gingen die Fahrgäste heraus, als ob von einem Paket.
+Als der Zug im Münchener Hauptbahnhof **einfuhr**, quollen die Passagiere aus den Wagen wie aus einem aufgerissenen Paket.
 
 When the train pulled into the Bahnhof in Munich, the passengers slid out as if from a torn package.
 
