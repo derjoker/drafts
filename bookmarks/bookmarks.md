@@ -46,6 +46,11 @@
 * [myMONK](http://mymonk.de/)
 * [MarathonFitness](https://www.marathonfitness.de/)
 
+### 词典
+
+* [Synonyme - OpenThesaurus - Deutscher Thesaurus](https://www.openthesaurus.de/)
+* [Thesaurus im Text-Format, gezippt](https://www.openthesaurus.de/export/OpenThesaurus-Textversion.zip)
+
 ### 语法
 
 * [SCHUBERT-Verlag](https://www.schubert-verlag.de/)
