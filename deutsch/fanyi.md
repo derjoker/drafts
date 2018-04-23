@@ -1,5 +1,13 @@
 # Übersetzen
 
+## 2018.04.23
+
+Sie übersehen die Realität, dass eine neue Version von das gleichen alten Problem am Ende der Reise auf sie wartet.
+
+They ignore the reality that a new version of the same old problem will be waiting at the end of the trip.
+
+他们忽略了，旅途的结束的时候，还是同样的老问题以一种新的面貌在等着他们。
+
 ## 2018.04.22
 
 Als der Zug im Münchener Hauptbahnhof **einfuhr**, quollen die Passagiere aus den Wagen wie aus einem aufgerissenen Paket.
