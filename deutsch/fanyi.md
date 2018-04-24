@@ -1,5 +1,13 @@
 # Übersetzen
 
+## 2018.04.24
+
+Das ist die Art von Dinge, die ich nie weiß oder verstehe - was Menschen können.
+
+That's the sort of thing I'll never know, or comprehend - what humans are capable of.
+
+这种事情，我永远无法知道或理解：人类的能耐。
+
 ## 2018.04.23
 
 Sie ignorieren die Tatsache, dass **am Ende ihrer Reise** nur eine neue Version desselben alten Problems auf sie wartet.
