@@ -2,7 +2,7 @@
 
 ## 2018.04.24
 
-Das ist die Art von Dinge, die ich nie weiß oder verstehe - was Menschen können.
+Das ist etwas, was ich nie wissen oder **begreifen** werde - wozu menschliche Wesen **fähig** sind.
 
 That's the sort of thing I'll never know, or comprehend - what humans are capable of.
 
