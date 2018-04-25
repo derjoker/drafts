@@ -1,5 +1,13 @@
 # Übersetzen
 
+## 2018.04.25
+
+Liesel war sicher, dass ihre Mutter die Erinnerung an ihn mitbracht, auf ihrer Schulter.
+
+Liesel was sure her mother carried the memory of him, slung over her shoulder.
+
+Liesel相信，她妈妈一定带着他的回忆，背在肩上。
+
 ## 2018.04.24
 
 Das ist etwas, was ich nie wissen oder **begreifen** werde - wozu menschliche Wesen **fähig** sind.
