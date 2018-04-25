@@ -2,7 +2,7 @@
 
 ## 2018.04.25
 
-Liesel war sicher, dass ihre Mutter die Erinnerung an ihn mitbracht, auf ihrer Schulter.
+Liesel war **sich sicher**, dass die Mutter die Erinnerung an ihn mit sich trug, auf ihren Schultern.
 
 Liesel was sure her mother carried the memory of him, slung over her shoulder.
 
