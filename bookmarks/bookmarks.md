@@ -22,6 +22,8 @@
 ## 资料
 
 * [openstax cnx](https://cnx.org/): Discover learning materials in an Open Space.
+* [Library Genesis](http://libgen.io/)
+* [arXiv.org e-Print archive](https://arxiv.org/)
 
 ## Blog & Website
 
