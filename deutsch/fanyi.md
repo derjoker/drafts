@@ -2,7 +2,7 @@
 
 ## 2018.05.02
 
-Liesel ging davon aus, dass er da war, um zu sichern, dass sie nicht fliehen konnte, oder um ihr darin zu zwingen wenn sie etwa Umstände machte.
+Liesel vermutete, dass er sie im Zweifelsfall am **Weglaufen** hindern oder sie nach drinnen schleppen sollte, wenn sie versuchte, Ärger zu machen.
 
 Liesel assumed he was there to make sure she wouldn't run away or to force her inside if she gave them any trouble.
 
