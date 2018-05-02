@@ -1,5 +1,13 @@
 # Übersetzen
 
+## 2018.05.02
+
+Liesel ging davon aus, dass er da war, um zu sichern, dass sie nicht fliehen konnte, oder um ihr darin zu zwingen wenn sie etwa Umstände machte.
+
+Liesel assumed he was there to make sure she wouldn't run away or to force her inside if she gave them any trouble.
+
+Liesel猜他的职责是确保她不会逃跑，或者把她摁在里头，如果她惹麻烦的话。
+
 ## 2018.05.01
 
 Sie **kaute** an den Nägeln und wartete auf den Zug.
