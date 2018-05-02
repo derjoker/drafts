@@ -1,5 +1,53 @@
 # Übersetzen
 
+## 2018.05.01
+
+Sie **kaute** an den Nägeln und wartete auf den Zug.
+
+She’d be eating her nails, waiting for the train.
+
+她啃着指甲，等火车。
+
+## 2018.04.30
+
+Niemand wollte Rosa Hubermann erklären müssen, dass der Junge die Reise nicht **überlebt** hatte.
+
+Nobody wanted to be the one to tell Rosa Hubermann that the boy didn’t survive the trip.
+
+没有人愿意告诉Rosa Hubermann，那个男孩没能在途中存活下来。
+
+## 2018.04.29
+
+Sie hatten ein Mädchen und einen Jungen **erwartet**, für deren Pflege sie eine **magere** Unterstützung bekommen sollten.
+
+They’d been expecting a girl and a boy and would be paid a small allowance for having them.
+
+他们期待已久的是一男孩一女孩，收养他们也会得到一笔小的津贴。
+
+## 2018.04.28
+
+Wer immer der Himmelstraße ihren Namen gegeben hatte, war offensichtlich mit einem gesunden **Sinn** für Humor gesegnet gewesen.
+
+Whoever named Himmel Street certainly had a healthy sense of irony.
+
+命名Himmel街的人，一定有着健康的反讽意味。
+
+## 2018.04.27
+
+Dorthin brachte man sie, in eine Straße, die nach dem Himmel **benannt** war.
+
+That’s where they were taking her, to a street by the name of Himmel.
+
+他们要把她带到那里去，一个叫Himmel的街。
+
+## 2018.04.26
+
+Liesel blieb in der Ecke des kleinen, **staubigen** Büros, während ihre Mutter mit verkrampften Gedanken auf einem sehr harten Stuhl saß.
+
+Liesel remained in the corner of the small, dusty office as her mother sat with clenched thoughts on a very hard chair.
+
+办公室又小又脏，Liesel留在角落里，妈妈坐在硬邦邦的椅子上，眉头紧锁。
+
 ## 2018.04.25
 
 Liesel war **sich sicher**, dass die Mutter die Erinnerung an ihn mit sich trug, auf ihren Schultern.
