@@ -2,11 +2,11 @@
 
 ## 2018.05.03
 
-Aber später als der Umstand vorkam, sitzte er einfach dort und betrachtete.
+Als der Ärger jedoch anfing, **saß** er einfach nur da und **sah zu**.
 
 Later, however, when the trouble did start, he simply sat there and watched.
 
-然而，后来，麻烦真的来的时候，他却只坐在那里看着。
+然而，后来，麻烦真的来的时候，他却坐在那里袖手旁观。
 
 ## 2018.05.02
 
