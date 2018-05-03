@@ -1,5 +1,13 @@
 # Übersetzen
 
+## 2018.05.03
+
+Aber später als der Umstand vorkam, sitzte er einfach dort und betrachtete.
+
+Later, however, when the trouble did start, he simply sat there and watched.
+
+然而，后来，麻烦真的来的时候，他却只坐在那里看着。
+
 ## 2018.05.02
 
 Liesel vermutete, dass er sie im Zweifelsfall am **Weglaufen** hindern oder sie nach drinnen schleppen sollte, wenn sie versuchte, Ärger zu machen.
