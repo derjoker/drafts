@@ -10,11 +10,11 @@ It took nearly fifteen minutes to coax her from the car.
 
 ## 2018.05.04
 
-Er war wahrscheinlich nur die letzte Nahmen, die finale Lösung.
+Vielleicht war er nur der letzte **Ausweg**, wenn nichts anderes mehr half.
 
 Perhaps he was only the last resort, the final solution.
 
-或许，他只是最后的措施，最终的方案。
+或许他要等到紧急关头才会采取行动。
 
 ## 2018.05.03
 
