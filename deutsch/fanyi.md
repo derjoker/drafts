@@ -1,5 +1,13 @@
 # Übersetzen
 
+## 2018.05.06
+
+Es **dauerte** fast fünfzehn Minuten, bis sie sich aus dem Auto **locken** ließen.
+
+It took nearly fifteen minutes to coax her from the car.
+
+他们花了十五分钟才把她从车上哄下来。
+
 ## 2018.05.03
 
 Als der Ärger jedoch anfing, **saß** er einfach nur da und **sah zu**.
