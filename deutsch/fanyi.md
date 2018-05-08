@@ -1,5 +1,13 @@
 # Übersetzen
 
+## 2018.05.08
+
+Als ich den Schlüssel meines Hauses verlore, musste ich ein ... anrufen.
+
+When I lost the key to my house I had to call a locksmith.
+
+当我把我家的钥匙弄丢的时候，我就必须要找一个开锁的。
+
 ## 2018.05.06
 
 Es **dauerte** fast fünfzehn Minuten, bis sie sich aus dem Auto **locken** ließen.
