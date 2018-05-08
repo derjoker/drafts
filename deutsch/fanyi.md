@@ -2,7 +2,7 @@
 
 ## 2018.05.08
 
-Als ich den Schlüssel meines Hauses verlore, musste ich ein ... anrufen.
+Als ich meinen **Hausschlüssel** verloren hatte, musste ich einen Schlüsseldienst **rufen**.
 
 When I lost the key to my house I had to call a locksmith.
 
