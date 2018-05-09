@@ -1,5 +1,13 @@
 # Übersetzen
 
+## 2018.05.09
+
+Ich wohne auf der Straße hinter dem berühmten alten ...
+
+I live on the street behind the famous old brewery.
+
+我住在著名的老啤酒厂后面的街上。
+
 ## 2018.05.08
 
 Als ich meinen **Hausschlüssel** verloren hatte, musste ich einen Schlüsseldienst **rufen**.
