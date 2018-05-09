@@ -2,7 +2,7 @@
 
 ## 2018.05.09
 
-Ich wohne auf der Straße hinter dem berühmten alten ...
+Ich wohne **in** der Straße hinter der berühmten alten Brauerei.
 
 I live on the street behind the famous old brewery.
 
