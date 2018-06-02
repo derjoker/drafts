@@ -1,6 +1,6 @@
 # N则
 
-* 人三物四
+* 人三物四，静三动四
 * In der Nacht im Süden ... 先时间后地点，天**时地**利
 * lang, breit, hoch (长宽高) vs. lange (时间长)
   * 2,28 Meter **lang** und 1,63 Meter **breit**
@@ -9,3 +9,4 @@
   * ver-
   * ie 爱
   * o 订婚戒指
+* werden (将要) vs. möchten (想要)
