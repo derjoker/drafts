@@ -33,6 +33,11 @@
 
 * [9GAG](https://9gag.com/)
 
+## 写作
+
+* [Writing tips and tricks from the Publication Coach - Daphne Gray-Grant](https://www.publicationcoach.com/)
+* [Write or Die](https://writeordie.com/)
+
 ## 语言
 
 ### 应用
