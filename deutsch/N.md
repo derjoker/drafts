@@ -16,3 +16,7 @@
 * werden (将要做) vs. wollen/möchten (想要做)
 
 * 家有儿女: See, die 海 (刘梅，刘星他妈) vs. See, der 湖 (胡一统，刘星他爸)
+
+* Gegensatz 不同的**无形的**东西 vs. Gegenteil 相反的**有形的**东西
+  * Satz，句子
+  * Teil, 实体
