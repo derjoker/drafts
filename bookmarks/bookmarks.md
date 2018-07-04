@@ -28,6 +28,19 @@
 ## Blog & Website
 
 * [Lea Verou](http://lea.verou.me/): Life at the bleeding edge (of web standards)
+* [Wes Bos](http://wesbos.com/)
+* [Speaking JavaScript: An In-Depth Guide for Programmers](http://speakingjs.com/)
+* [Exploring ES6](http://exploringjs.com/es6/toc-short.html)
+
+## 字幕/Subtitles/Untertitel
+* [人人影视](http://www.zimuzu.tv/)
+* [The Internet Movie Script Database (IMSDb)](http://www.imsdb.com/)
+* [SUBTiTLES.DE](http://subtitles.de/)
+* [TVsubs.org](http://tvsubs.org/)
+
+## 读书
+* [lovelybooks](https://www.lovelybooks.de/)
+* [Leanpub](https://leanpub.com/)
 
 ## Just For Fun
 
