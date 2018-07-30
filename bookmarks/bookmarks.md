@@ -53,6 +53,10 @@
 
 ## 语言
 
+### 语音
+
+* [Forvo: the pronunciation dictionary. All the words in the world pronounced by native speakers](https://forvo.com/)
+
 ### 应用
 
 * [readlang](http://readlang.com/): Learn a language by reading whatever you like
