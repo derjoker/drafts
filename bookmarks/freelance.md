@@ -9,3 +9,5 @@
 * [Leanpub: Publish Early, Publish Often](https://leanpub.com/)
 
 * [如何成为一本技术书籍（来自O'reilly，图灵社区，机械工业出版社）的译者？ - 知乎](https://www.zhihu.com/question/39628316)
+
+* [语翼woordee在线翻译-传神旗下专业互联网人工翻译平台](http://www.woordee.com/)
