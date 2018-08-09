@@ -1,5 +1,9 @@
 # dev
 
+## Blog
+
+* [kramdown](https://kramdown.gettalong.org/index.html): a superset of Markdown
+
 ## Markdown
 
 * [markedjs/marked](https://github.com/markedjs/marked): A markdown parser and compiler. Built for speed.
